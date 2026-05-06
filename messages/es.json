@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "bookNow": "Reservar"
+  },
+  "hero": {
+    "label": "Cuidado con Amor",
+    "title": "Sus cuidadores de mascotas de confianza",
+    "subtitle": "Entendemos las necesidades de sus compañeros peludos, su presupuesto y su tranquilidad.",
+    "cta": "Contáctenos"
+  },
+  "about": {
+    "label": "Sobre Nosotros",
+    "title": "Soluciones de Cuidado Animal Confiables",
+    "body": "En Top Gos, ofrecemos soluciones de cuidado animal disponibles 24/7 adaptadas a sus necesidades. Nuestros profesionales altamente capacitados brindan un servicio de primera, asegurando el bienestar y la felicidad de sus compañeros peludos. Con Top Gos, obtiene un servicio de calidad a precios accesibles, incluyendo servicio de emergencia inmediato 24/7. La seguridad y felicidad de sus mascotas son nuestra máxima prioridad.",
+    "bullet1": "Planes de cuidado personalizados adaptados a las necesidades de su mascota.",
+    "bullet2": "Profesionales capacitados dedicados al bienestar de su mascota.",
+    "bullet3": "Tranquilidad sabiendo que sus mascotas están en manos de confianza.",
+    "cta": "Contáctenos"
+  },
+  "services": {
+    "label": "Nuestros Servicios",
+    "title": "Soluciones a Medida para Sus Amigos Peludos",
+    "body": "En Top Gos, entendemos que cada mascota es única, por eso ofrecemos una amplia gama de soluciones expertas de cuidado animal adaptadas a sus necesidades. Nuestro equipo se compromete a garantizar el bienestar de sus compañeros peludos las 24 horas.",
+    "dogWalking": {
+      "title": "Paseo de Perros",
+      "description": "Mantenga a su perro activo con paseos adaptados a su nivel de energía y preferencias."
+    },
+    "grooming": {
+      "title": "Peluquería Canina",
+      "description": "Sesiones de peluquería profesional para que su mascota luzca y se sienta de maravilla."
+    },
+    "sitting": {
+      "title": "Cuidado en Casa",
+      "description": "Cuidado en el hogar para que sus mascotas estén cómodas en su propio entorno."
+    }
+  },
+  "testimonials": {
+    "label": "Testimonios",
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "subtitle": "Descubra las experiencias de los dueños de mascotas que han confiado a sus compañeros peludos a Top Gos.",
+    "t1": { "title": "Perfecto para Agendas Ocupadas", "body": "Los servicios de paseo de Top Gos han sido un salvavidas para mi familia. Los recomiendo completamente para el cuidado de mi mejor amigo peludo.", "name": "J. Thompson", "role": "Dueño de Mascota" },
+    "t2": { "title": "Programa de Entrenamiento Transformador", "body": "El programa de entrenamiento de Top Gos transformó el comportamiento de mi mascota. ¡No podría estar más satisfecha con los resultados!", "name": "Emily P.", "role": "Dueña de Mascota" },
+    "t3": { "title": "Confiable y Cariñoso", "body": "Top Gos fue un cambio total para nosotros — confiable, cariñoso y verdaderamente profesional. Me siento mucho mejor sabiendo que mis mascotas están seguras.", "name": "Sarah M.", "role": "Dueña de Perro" },
+    "t4": { "title": "Excelente Servicio de Peluquería", "body": "¡Mi perro vuelve luciendo como una estrella cada vez! Los peluqueros son gentiles, profesionales y claramente aman lo que hacen.", "name": "Mike R.", "role": "Dueño de Mascota" }
+  },
+  "areas": {
+    "label": "Áreas de Servicio",
+    "title": "Sirviendo Chicago y Más Allá",
+    "body": "Desde las bulliciosas calles del centro hasta los acogedores barrios de los suburbios, Top Gos se enorgullece de atender a los dueños de mascotas de Chicago y sus alrededores. Si tiene preguntas sobre si cubrimos su área, no dude en contactarnos.",
+    "cta": "Contáctenos",
+    "mapTitle": "Chicago, IL y Suburbios",
+    "mapSubtitle": "Sirviendo el área metropolitana de Chicago"
+  },
+  "howItWorks": {
+    "label": "Empiece en 3 Sencillos Pasos",
+    "title": "Su Solución de Confianza para el Cuidado Animal",
+    "body": "¿Listo para darle a su amigo peludo el mejor cuidado posible? Top Gos ofrece servicios de primera adaptados a sus necesidades. Ya sea que necesite un paseador, cuidador o peluquero, lo tenemos cubierto.",
+    "cta": "Contáctenos",
+    "step1": { "title": "Contáctenos", "description": "Comuníquese con Top Gos para hablar sobre sus necesidades y programar una consulta con nuestro equipo." },
+    "step2": { "title": "Consulta Personal", "description": "Reúnase con nuestro equipo para analizar los requisitos únicos de su mascota y crear un plan personalizado." },
+    "step3": { "title": "¡Disfrute!", "description": "Relájese y disfrute de la tranquilidad de saber que su amigo peludo está en buenas manos con Top Gos." }
+  },
+  "contactForm": {
+    "label": "Contáctenos",
+    "title": "Complete el Formulario",
+    "subtitle": "Reserve el próximo paseo, sesión de peluquería o programa de entrenamiento de su mascota con Top Gos hoy.",
+    "name": "Nombre Completo",
+    "namePlaceholder": "Juan García",
+    "email": "Correo Electrónico",
+    "emailPlaceholder": "juan@ejemplo.com",
+    "phone": "Teléfono",
+    "phonePlaceholder": "+1 234 567 890",
+    "date": "Seleccionar Fecha",
+    "service": "Servicio de Interés",
+    "servicePlaceholder": "Seleccione un servicio…",
+    "message": "Su Mensaje",
+    "messagePlaceholder": "Cuéntenos un poco sobre su perro y sus objetivos…",
+    "submit": "Enviar Formulario",
+    "sending": "Enviando…",
+    "sent": "¡Mensaje Enviado!",
+    "error": "Algo salió mal. Por favor, inténtelo de nuevo.",
+    "services": {
+      "walking": "Paseo de Perros",
+      "grooming": "Peluquería Canina",
+      "training": "Entrenamiento",
+      "boarding": "Guardería Canina"
+    }
+  },
+  "footer": {
+    "tagline": "Su socio de confianza en soluciones de cuidado animal. Servicios a medida para mascotas felices y dueños satisfechos.",
+    "bookNow": "Reservar",
+    "quickLinks": "Enlaces Rápidos",
+    "getInTouch": "Contáctenos",
+    "contactForm": "Formulario de Contacto",
+    "copyright": "© {year} Top Gos. Todos los derechos reservados.",
+    "built": "Hecho con amor para las mascotas del mundo"
+  }
+}

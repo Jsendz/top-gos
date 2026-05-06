@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Inici",
+    "services": "Serveis",
+    "about": "Nosaltres",
+    "contact": "Contacte",
+    "bookNow": "Reservar"
+  },
+  "hero": {
+    "label": "Cura amb Amor",
+    "title": "Els vostres cuidadors de mascotes de confiança",
+    "subtitle": "Entenem les necessitats dels vostres companys peluts, el vostre pressupost i la vostra tranquil·litat.",
+    "cta": "Contacteu-nos"
+  },
+  "about": {
+    "label": "Sobre Nosaltres",
+    "title": "Solucions Fiables per a la Cura Animal",
+    "body": "A Top Gos, oferim solucions de cura animal disponibles 24/7 adaptades a les vostres necessitats. Els nostres professionals altament qualificats ofereixen un servei de primera, garantint el benestar i la felicitat dels vostres companys peluts. Amb Top Gos, obteniu un servei de qualitat a preus assequibles, incloent servei d'emergència immediat 24/7. La seguretat i felicitat de les vostres mascotes són la nostra màxima prioritat.",
+    "bullet1": "Plans de cura personalitzats adaptats a les necessitats de la vostra mascota.",
+    "bullet2": "Professionals formats dedicats al benestar de la vostra mascota.",
+    "bullet3": "Tranquil·litat sabent que les vostres mascotes estan en mans de confiança.",
+    "cta": "Contacteu-nos"
+  },
+  "services": {
+    "label": "Els Nostres Serveis",
+    "title": "Solucions a Mida per als Vostres Amics Peluts",
+    "body": "A Top Gos, entenem que cada mascota és única, per això oferim una àmplia gamma de solucions expertes de cura animal adaptades a les vostres necessitats. El nostre equip es compromet a garantir el benestar dels vostres companys peluts les 24 hores.",
+    "dogWalking": {
+      "title": "Passeig de Gossos",
+      "description": "Manteniu el vostre gos actiu amb passejos adaptats al seu nivell d'energia i preferències."
+    },
+    "grooming": {
+      "title": "Perruqueria Canina",
+      "description": "Sessions de perruqueria professional perquè la vostra mascota llueixi i se senti de meravella."
+    },
+    "sitting": {
+      "title": "Cura a Casa",
+      "description": "Cura a la llar perquè les vostres mascotes estiguin còmodes en el seu propi entorn."
+    }
+  },
+  "testimonials": {
+    "label": "Testimonis",
+    "title": "El Que Diuen els Nostres Clients",
+    "subtitle": "Descobriu les experiències dels propietaris de mascotes que han confiat els seus companys peluts a Top Gos.",
+    "t1": { "title": "Perfecte per a Agendes Ocupades", "body": "Els serveis de passeig de Top Gos han estat una salvació per a la meva família. Els recomanaria completament per a la cura del meu millor amic pelut.", "name": "J. Thompson", "role": "Propietari de Mascota" },
+    "t2": { "title": "Programa d'Entrenament Transformador", "body": "El programa d'entrenament de Top Gos va transformar el comportament de la meva mascota. No podria estar més satisfeta amb els resultats!", "name": "Emily P.", "role": "Propietària de Mascota" },
+    "t3": { "title": "Fiable i Carinyós", "body": "Top Gos va ser un canvi total per a nosaltres — fiable, carinyós i verdaderament professional. Em sento molt millor sabent que les meves mascotes estan segures.", "name": "Sarah M.", "role": "Propietària de Gos" },
+    "t4": { "title": "Excel·lent Servei de Perruqueria", "body": "El meu gos torna lluint com una estrella cada vegada! Els perruquers són gentils, professionals i clarament estimen el que fan.", "name": "Mike R.", "role": "Propietari de Mascota" }
+  },
+  "areas": {
+    "label": "Àrees de Servei",
+    "title": "Servint Chicago i Més Enllà",
+    "body": "Des dels carrers animats del centre fins als acollidors barris dels suburbis, Top Gos s'enorgulleix d'atendre els propietaris de mascotes de Chicago i els seus voltants. Si teniu preguntes sobre si cobrim la vostra àrea, no dubteu a contactar-nos.",
+    "cta": "Contacteu-nos",
+    "mapTitle": "Chicago, IL i Suburbis",
+    "mapSubtitle": "Servint l'àrea metropolitana de Chicago"
+  },
+  "howItWorks": {
+    "label": "Comenceu en 3 Passos Senzills",
+    "title": "La Vostra Solució de Confiança per a la Cura Animal",
+    "body": "Preparats per oferir al vostre amic pelut la millor cura possible? Top Gos ofereix serveis de primera adaptats a les vostres necessitats. Tant si necessiteu un passejador, cuidador o perruquer, ho tenim cobert.",
+    "cta": "Contacteu-nos",
+    "step1": { "title": "Contacteu-nos", "description": "Poseu-vos en contacte amb Top Gos per parlar de les vostres necessitats i programar una consulta amb el nostre equip." },
+    "step2": { "title": "Consulta Personal", "description": "Reuniu-vos amb el nostre equip per analitzar els requisits únics de la vostra mascota i crear un pla personalitzat." },
+    "step3": { "title": "Gaudiu-ne!", "description": "Relaxeu-vos i gaudiu de la tranquil·litat de saber que el vostre amic pelut està en bones mans amb Top Gos." }
+  },
+  "contactForm": {
+    "label": "Contacteu-nos",
+    "title": "Empleneu el Formulari",
+    "subtitle": "Reserveu el proper passeig, sessió de perruqueria o programa d'entrenament de la vostra mascota amb Top Gos.",
+    "name": "Nom Complet",
+    "namePlaceholder": "Joan Garcia",
+    "email": "Correu Electrònic",
+    "emailPlaceholder": "joan@exemple.com",
+    "phone": "Telèfon",
+    "phonePlaceholder": "+1 234 567 890",
+    "date": "Seleccioneu la Data",
+    "service": "Servei d'Interès",
+    "servicePlaceholder": "Seleccioneu un servei…",
+    "message": "El Vostre Missatge",
+    "messagePlaceholder": "Expliqueu-nos una mica sobre el vostre gos i els vostres objectius…",
+    "submit": "Enviar el Formulari",
+    "sending": "Enviant…",
+    "sent": "Missatge Enviat!",
+    "error": "Alguna cosa ha anat malament. Torneu-ho a intentar.",
+    "services": {
+      "walking": "Passeig de Gossos",
+      "grooming": "Perruqueria Canina",
+      "training": "Entrenament",
+      "boarding": "Residència Canina"
+    }
+  },
+  "footer": {
+    "tagline": "El vostre soci de confiança en solucions de cura animal. Serveis a mida per a mascotes felices i propietaris satisfets.",
+    "bookNow": "Reservar",
+    "quickLinks": "Enllaços Ràpids",
+    "getInTouch": "Contacteu-nos",
+    "contactForm": "Formulari de Contacte",
+    "copyright": "© {year} Top Gos. Tots els drets reservats.",
+    "built": "Fet amb amor per a les mascotes del món"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "hero": {
+    "label": "Loving Care",
+    "title": "Your trusted pet caregivers",
+    "subtitle": "We understand the needs of your furry companions, your budget, and your peace of mind.",
+    "cta": "Get In Touch"
+  },
+  "about": {
+    "label": "About Us",
+    "title": "Providing Reliable Pet Care Solutions",
+    "body": "At Top Gos, we provide 24/7 pet care solutions tailored to your needs. Our highly skilled professionals deliver top-notch service, ensuring the well-being and happiness of your furry companions. With Top Gos, you get first-class quality service at affordable prices, including immediate 24/7 emergency service for urgent situations. Your pets' safety and happiness are our top priorities.",
+    "bullet1": "Personalized care plans tailored to your pet's needs.",
+    "bullet2": "Trained professionals dedicated to your pet's well-being.",
+    "bullet3": "Peace of mind knowing your pets are in trusted hands.",
+    "cta": "Get In Touch"
+  },
+  "services": {
+    "label": "Our Services",
+    "title": "Tailored Solutions for Your Furry Friends",
+    "body": "At Top Gos, we understand that every pet is unique, which is why we offer a comprehensive range of expert pet care solutions tailored to your needs. Our dedicated team is committed to ensuring the well-being and happiness of your furry companions 24/7.",
+    "dogWalking": {
+      "title": "Dog Walking",
+      "description": "Keep your pup active with tailored walks that cater to their energy level and preferences."
+    },
+    "grooming": {
+      "title": "Pet Grooming",
+      "description": "Professional grooming sessions to keep your pet looking and feeling their absolute best."
+    },
+    "sitting": {
+      "title": "Pet Sitting",
+      "description": "Reliable in-home sitting so your pets stay comfortable in their own environment."
+    }
+  },
+  "testimonials": {
+    "label": "Client Testimonials",
+    "title": "Hear What Our Clients Have to Say",
+    "subtitle": "Explore the heartfelt experiences of pet owners who have entrusted their furry companions to Top Gos. Learn why they choose our reliable and caring pet care services time and again.",
+    "t1": { "title": "Perfect for Busy Schedules", "body": "Top Gos's walking services have been a lifesaver for my family. I trust them completely with my furry best friend. Their reliability and care are unmatched.", "name": "J. Thompson", "role": "Pet Owner" },
+    "t2": { "title": "Transformational Training Program", "body": "Top Gos's training program transformed my pet's behavior. I couldn't be happier with the results! Their expertise and dedication truly made a difference in my pet's life.", "name": "Emily P.", "role": "Pet Owner" },
+    "t3": { "title": "Reliable and Caring", "body": "Top Gos was a game-changer for us — reliable, caring, and truly knowledgeable. I feel so much better knowing my pets are in safe hands every single day.", "name": "Sarah M.", "role": "Dog Owner" },
+    "t4": { "title": "Outstanding Grooming Service", "body": "My dog comes back looking like a superstar every time! The groomers are gentle, professional, and clearly love what they do. Highly recommend!", "name": "Mike R.", "role": "Pet Owner" }
+  },
+  "areas": {
+    "label": "Areas We Serve",
+    "title": "Serving Chicago and Beyond",
+    "body": "From the bustling streets of downtown to the cozy neighborhoods of the suburbs, Top Gos is proud to serve the pet owners of Chicago and beyond. Our dedicated team is committed to providing top-notch pet care services to furry companions across the city. If you have any questions about whether we serve your area, don't hesitate to reach out.",
+    "cta": "Get In Touch",
+    "mapTitle": "Chicago, IL & Suburbs",
+    "mapSubtitle": "Serving the greater Chicago area"
+  },
+  "howItWorks": {
+    "label": "Get Started in 3 Easy Steps",
+    "title": "Your Trusted Pet Care Solution",
+    "body": "Ready to give your furry friend the best care possible? Top Gos offers top-notch pet care services tailored to your needs. Whether you need a dog walker, pet sitter, or grooming, we've got you covered.",
+    "cta": "Get In Touch",
+    "step1": { "title": "Contact Us", "description": "Reach out to Top Gos to discuss your pet care needs and schedule a consultation with our team." },
+    "step2": { "title": "Personal Consultation", "description": "Meet with our team to discuss your pet's unique requirements and tailor a customized care plan." },
+    "step3": { "title": "Start Enjoying", "description": "Sit back, relax, and enjoy peace of mind knowing your furry friend is in good hands with Top Gos." }
+  },
+  "contactForm": {
+    "label": "Contact Us",
+    "title": "Fill Out the Form",
+    "subtitle": "Schedule your pet's next walk, grooming session, or training program with Top Gos today.",
+    "name": "Full Name",
+    "namePlaceholder": "Jane Smith",
+    "email": "Email",
+    "emailPlaceholder": "jane@example.com",
+    "phone": "Phone",
+    "phonePlaceholder": "+1 234 567 890",
+    "date": "Select Date",
+    "service": "Service Interested In",
+    "servicePlaceholder": "Select a service…",
+    "message": "Your Message",
+    "messagePlaceholder": "Tell us a bit about your dog and goals…",
+    "submit": "Submit Form",
+    "sending": "Sending…",
+    "sent": "Message Sent!",
+    "error": "Something went wrong. Please try again.",
+    "services": {
+      "walking": "Dog Walking",
+      "grooming": "Dog Grooming",
+      "training": "Pet Training",
+      "boarding": "Dog Boarding"
+    }
+  },
+  "footer": {
+    "tagline": "Your trusted partner in pet care solutions. Tailored services for happy pets and satisfied owners.",
+    "bookNow": "Book Now",
+    "quickLinks": "Quick Links",
+    "getInTouch": "Get In Touch",
+    "contactForm": "Contact Form",
+    "copyright": "© {year} Top Gos. All rights reserved.",
+    "built": "Built with love for pets everywhere"
+  }
+}

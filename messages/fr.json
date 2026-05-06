@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À Propos",
+    "contact": "Contact",
+    "bookNow": "Réserver"
+  },
+  "hero": {
+    "label": "Soins Attentionnés",
+    "title": "Vos gardiens d'animaux de confiance",
+    "subtitle": "Nous comprenons les besoins de vos compagnons à fourrure, votre budget et votre tranquillité d'esprit.",
+    "cta": "Nous Contacter"
+  },
+  "about": {
+    "label": "À Propos",
+    "title": "Des Solutions Fiables pour Vos Animaux",
+    "body": "Chez Top Gos, nous proposons des solutions de garde d'animaux 24h/24 adaptées à vos besoins. Nos professionnels hautement qualifiés offrent un service de premier ordre, garantissant le bien-être et le bonheur de vos compagnons à fourrure. Avec Top Gos, vous bénéficiez d'un service de qualité à des prix abordables, incluant un service d'urgence immédiat 24h/24. La sécurité et le bonheur de vos animaux sont notre priorité absolue.",
+    "bullet1": "Plans de soins personnalisés adaptés aux besoins de votre animal.",
+    "bullet2": "Professionnels formés dédiés au bien-être de votre animal.",
+    "bullet3": "Tranquillité d'esprit sachant que vos animaux sont entre de bonnes mains.",
+    "cta": "Nous Contacter"
+  },
+  "services": {
+    "label": "Nos Services",
+    "title": "Des Solutions Sur Mesure pour Vos Amis à Fourrure",
+    "body": "Chez Top Gos, nous comprenons que chaque animal est unique, c'est pourquoi nous proposons une gamme complète de solutions expertes de garde adaptées à vos besoins. Notre équipe s'engage à assurer le bien-être de vos compagnons à fourrure 24h/24.",
+    "dogWalking": {
+      "title": "Promenade de Chiens",
+      "description": "Gardez votre chien actif avec des promenades adaptées à son niveau d'énergie et ses préférences."
+    },
+    "grooming": {
+      "title": "Toilettage",
+      "description": "Des séances de toilettage professionnel pour que votre animal soit au meilleur de sa forme."
+    },
+    "sitting": {
+      "title": "Garde à Domicile",
+      "description": "Garde fiable à domicile pour que vos animaux restent confortables dans leur environnement."
+    }
+  },
+  "testimonials": {
+    "label": "Témoignages Clients",
+    "title": "Ce Que Disent Nos Clients",
+    "subtitle": "Découvrez les expériences touchantes des propriétaires d'animaux qui ont confié leurs compagnons à Top Gos.",
+    "t1": { "title": "Parfait pour les Emplois du Temps Chargés", "body": "Les services de promenade de Top Gos ont été une bouée de sauvetage pour ma famille. Je leur fais entièrement confiance pour mon meilleur ami à fourrure.", "name": "J. Thompson", "role": "Propriétaire" },
+    "t2": { "title": "Programme d'Éducation Transformateur", "body": "Le programme d'éducation de Top Gos a transformé le comportement de mon animal. Je ne pourrais pas être plus heureux des résultats !", "name": "Emily P.", "role": "Propriétaire" },
+    "t3": { "title": "Fiable et Attentionné", "body": "Top Gos a tout changé pour nous — fiable, attentionné et vraiment compétent. Je me sens tellement mieux de savoir que mes animaux sont en sécurité.", "name": "Sarah M.", "role": "Propriétaire de Chien" },
+    "t4": { "title": "Excellent Service de Toilettage", "body": "Mon chien revient comme une star à chaque fois ! Les toiletteurs sont doux, professionnels et adorent clairement leur travail.", "name": "Mike R.", "role": "Propriétaire" }
+  },
+  "areas": {
+    "label": "Zones Desservies",
+    "title": "Chicago et Ses Environs",
+    "body": "Des rues animées du centre-ville aux quartiers paisibles de la banlieue, Top Gos est fier de servir les propriétaires d'animaux de Chicago et au-delà. Si vous avez des questions sur notre zone de couverture, n'hésitez pas à nous contacter.",
+    "cta": "Nous Contacter",
+    "mapTitle": "Chicago, IL et Banlieue",
+    "mapSubtitle": "Desservant la grande région de Chicago"
+  },
+  "howItWorks": {
+    "label": "Démarrez en 3 Étapes Simples",
+    "title": "Votre Solution de Confiance pour Vos Animaux",
+    "body": "Prêt à offrir à votre ami à fourrure les meilleurs soins possibles ? Top Gos propose des services de premier ordre adaptés à vos besoins. Que vous ayez besoin d'un promeneur, d'un gardien ou d'un toiletteur, nous sommes là pour vous.",
+    "cta": "Nous Contacter",
+    "step1": { "title": "Contactez-nous", "description": "Contactez Top Gos pour discuter de vos besoins et planifier une consultation avec notre équipe." },
+    "step2": { "title": "Consultation Personnelle", "description": "Rencontrez notre équipe pour discuter des besoins spécifiques de votre animal et élaborer un plan sur mesure." },
+    "step3": { "title": "Profitez-en !", "description": "Détendez-vous et profitez de la tranquillité d'esprit en sachant que votre compagnon est entre de bonnes mains." }
+  },
+  "contactForm": {
+    "label": "Contactez-nous",
+    "title": "Remplissez le Formulaire",
+    "subtitle": "Planifiez la prochaine promenade, séance de toilettage ou programme d'éducation de votre animal avec Top Gos.",
+    "name": "Nom Complet",
+    "namePlaceholder": "Jean Dupont",
+    "email": "E-mail",
+    "emailPlaceholder": "jean@exemple.com",
+    "phone": "Téléphone",
+    "phonePlaceholder": "+1 234 567 890",
+    "date": "Sélectionner une Date",
+    "service": "Service Souhaité",
+    "servicePlaceholder": "Choisissez un service…",
+    "message": "Votre Message",
+    "messagePlaceholder": "Dites-nous un peu ce que vous attendez pour votre chien…",
+    "submit": "Envoyer le Formulaire",
+    "sending": "Envoi en cours…",
+    "sent": "Message Envoyé !",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "services": {
+      "walking": "Promenade de Chiens",
+      "grooming": "Toilettage",
+      "training": "Éducation Canine",
+      "boarding": "Pension Canine"
+    }
+  },
+  "footer": {
+    "tagline": "Votre partenaire de confiance en solutions de garde d'animaux. Des services sur mesure pour des animaux heureux et des propriétaires satisfaits.",
+    "bookNow": "Réserver",
+    "quickLinks": "Liens Rapides",
+    "getInTouch": "Nous Contacter",
+    "contactForm": "Formulaire de Contact",
+    "copyright": "© {year} Top Gos. Tous droits réservés.",
+    "built": "Fait avec amour pour les animaux du monde entier"
+  }
+}

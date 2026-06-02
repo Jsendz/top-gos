@@ -13,8 +13,7 @@ export default function ContactForm() {
   const services = [
     t('services.walking'),
     t('services.grooming'),
-    t('services.training'),
-    t('services.boarding'),
+    t('services.sitting'),
   ];
 
   const [form, setForm] = useState({

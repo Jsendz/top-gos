@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { NextIntlClientProvider } from "next-intl";
-import { getMessages } from "next-intl/server";
+import { getMessages, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 
@@ -9,11 +9,34 @@ type Props = {
   params: Promise<{ locale: string }>;
 };
 
+const base = "https://www.topgos.ad";
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "meta" });
+
   return {
-    other: {},
-    // Pass locale to the html element via Next.js internals
+    title: t("title"),
+    description: t("description"),
+    keywords: t("keywords"),
+    alternates: {
+      canonical: `${base}/${locale}`,
+      languages: {
+        ca: `${base}/ca`,
+        es: `${base}/es`,
+        fr: `${base}/fr`,
+        en: `${base}/en`,
+        "x-default": `${base}/ca`,
+      },
+    },
+    openGraph: {
+      title: t("title"),
+      description: t("description"),
+      url: `${base}/${locale}`,
+      siteName: "Top Gos",
+      locale,
+      type: "website",
+    },
   };
 }
 

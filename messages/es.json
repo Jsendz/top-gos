@@ -1,4 +1,9 @@
 {
+  "meta": {
+    "title": "Paseador de Perros y Peluquería Canina en Andorra | Top Gos",
+    "description": "Paseo de perros con recogida a domicilio, peluquería canina y cuidado de perros en casa en todas las parroquias de Andorra. Atención cercana y de confianza. Reserva hoy.",
+    "keywords": "paseador de perros Andorra, paseo de perros Andorra, peluquería canina Andorra, cuidador de perros Andorra, canguro de perros Andorra, estética canina Andorra"
+  },
   "nav": {
     "home": "Inicio",
     "services": "Servicios",
@@ -8,95 +13,122 @@
   },
   "hero": {
     "label": "Cuidado con Amor",
-    "title": "Sus cuidadores de mascotas de confianza",
-    "subtitle": "Entendemos las necesidades de sus compañeros peludos, su presupuesto y su tranquilidad.",
-    "cta": "Contáctenos"
+    "title": "Paseo de perros, peluquería y cuidado a domicilio en Andorra",
+    "subtitle": "Cuidamos de tu perro cerca de casa, en toda Andorra: paseos con recogida a domicilio, peluquería canina y canguro en tu propia casa, siempre adaptados a ti.",
+    "cta": "Contáctanos"
   },
   "about": {
     "label": "Sobre Nosotros",
-    "title": "Soluciones de Cuidado Animal Confiables",
-    "body": "En Top Gos, ofrecemos soluciones de cuidado animal disponibles 24/7 adaptadas a sus necesidades. Nuestros profesionales altamente capacitados brindan un servicio de primera, asegurando el bienestar y la felicidad de sus compañeros peludos. Con Top Gos, obtiene un servicio de calidad a precios accesibles, incluyendo servicio de emergencia inmediato 24/7. La seguridad y felicidad de sus mascotas son nuestra máxima prioridad.",
-    "bullet1": "Planes de cuidado personalizados adaptados a las necesidades de su mascota.",
-    "bullet2": "Profesionales capacitados dedicados al bienestar de su mascota.",
-    "bullet3": "Tranquilidad sabiendo que sus mascotas están en manos de confianza.",
-    "cta": "Contáctenos"
+    "title": "Cuidado canino cercano y de confianza en Andorra",
+    "body": "En Top Gos cuidamos de los perros de Andorra como si fueran nuestros. Ofrecemos paseo de perros con recogida a domicilio, peluquería canina y servicio de canguro en tu propia casa, siempre con un trato cercano y profesional. Tanto si vives en Andorra la Vella, Escaldes-Engordany o cualquier otra parroquia, como si visitas el país unos días, adaptamos cada servicio al ritmo y el carácter de tu peludo.",
+    "bullet1": "Planes de cuidado personalizados según las necesidades de tu perro.",
+    "bullet2": "Profesionales locales que aman a los animales y los cuidan de verdad.",
+    "bullet3": "Tranquilidad sabiendo que tu perro está en buenas manos.",
+    "cta": "Contáctanos"
   },
   "services": {
     "label": "Nuestros Servicios",
-    "title": "Soluciones a Medida para Sus Amigos Peludos",
-    "body": "En Top Gos, entendemos que cada mascota es única, por eso ofrecemos una amplia gama de soluciones expertas de cuidado animal adaptadas a sus necesidades. Nuestro equipo se compromete a garantizar el bienestar de sus compañeros peludos las 24 horas.",
+    "title": "Servicios de cuidado canino a medida en Andorra",
+    "body": "Cada perro es único. Por eso ofrecemos paseo, peluquería y cuidado a domicilio adaptados a las necesidades de tu mascota y a tu agenda, en toda Andorra.",
     "dogWalking": {
       "title": "Paseo de Perros",
-      "description": "Mantenga a su perro activo con paseos adaptados a su nivel de energía y preferencias."
+      "description": "Paseos individuales o en grupo según la energía de tu perro, con recogida y vuelta a domicilio en toda Andorra."
     },
     "grooming": {
       "title": "Peluquería Canina",
-      "description": "Sesiones de peluquería profesional para que su mascota luzca y se sienta de maravilla."
+      "description": "Baño, corte y estética profesional para que tu perro luzca sano, limpio y feliz."
     },
     "sitting": {
-      "title": "Cuidado en Casa",
-      "description": "Cuidado en el hogar para que sus mascotas estén cómodas en su propio entorno."
+      "title": "Canguro a Domicilio",
+      "description": "Cuidamos de tu perro en tu propia casa, en su entorno de siempre. Servicio bajo petición, ideal cuando tienes que ausentarte."
     }
   },
   "testimonials": {
     "label": "Testimonios",
-    "title": "Lo Que Dicen Nuestros Clientes",
-    "subtitle": "Descubra las experiencias de los dueños de mascotas que han confiado a sus compañeros peludos a Top Gos.",
-    "t1": { "title": "Perfecto para Agendas Ocupadas", "body": "Los servicios de paseo de Top Gos han sido un salvavidas para mi familia. Los recomiendo completamente para el cuidado de mi mejor amigo peludo.", "name": "J. Thompson", "role": "Dueño de Mascota" },
-    "t2": { "title": "Programa de Entrenamiento Transformador", "body": "El programa de entrenamiento de Top Gos transformó el comportamiento de mi mascota. ¡No podría estar más satisfecha con los resultados!", "name": "Emily P.", "role": "Dueña de Mascota" },
-    "t3": { "title": "Confiable y Cariñoso", "body": "Top Gos fue un cambio total para nosotros — confiable, cariñoso y verdaderamente profesional. Me siento mucho mejor sabiendo que mis mascotas están seguras.", "name": "Sarah M.", "role": "Dueña de Perro" },
-    "t4": { "title": "Excelente Servicio de Peluquería", "body": "¡Mi perro vuelve luciendo como una estrella cada vez! Los peluqueros son gentiles, profesionales y claramente aman lo que hacen.", "name": "Mike R.", "role": "Dueño de Mascota" }
+    "title": "Lo que dicen nuestros clientes",
+    "subtitle": "Descubre las experiencias de propietarios de Andorra que han confiado su perro a Top Gos.",
+    "t1": { "title": "Perfecto para agendas llenas", "body": "Vienen a buscar a Lua a casa y me la devuelven cansada y feliz. Con mi trabajo no tendría tiempo de pasearla como se merece. Un servicio impecable.", "name": "Marta R.", "role": "Propietaria de perro en Andorra la Vella" },
+    "t2": { "title": "Tranquilidad durante las vacaciones", "body": "Nos fuimos unos días y cuidaron de nuestro perro en nuestra propia casa. Nos enviaban fotos cada día y lo encontramos igual de tranquilo que siempre. Repetiremos seguro.", "name": "David S.", "role": "Propietario de perro en Escaldes-Engordany" },
+    "t3": { "title": "Fiables y cercanos", "body": "Lo que más valoro es la confianza. Son puntuales, cariñosos y tratan a mi perro como si fuera suyo. Recomendados al cien por cien.", "name": "Cristina F.", "role": "Propietaria de perro en La Massana" },
+    "t4": { "title": "Peluquería de diez", "body": "Mi perro vuelve limpio, bien cortado y contento. Se nota que les gustan los animales y que cuidan cada detalle.", "name": "Marc T.", "role": "Propietario de perro en Encamp" }
   },
   "areas": {
-    "label": "Áreas de Servicio",
-    "title": "Sirviendo Chicago y Más Allá",
-    "body": "Desde las bulliciosas calles del centro hasta los acogedores barrios de los suburbios, Top Gos se enorgullece de atender a los dueños de mascotas de Chicago y sus alrededores. Si tiene preguntas sobre si cubrimos su área, no dude en contactarnos.",
-    "cta": "Contáctenos",
-    "mapTitle": "Chicago, IL y Suburbios",
-    "mapSubtitle": "Sirviendo el área metropolitana de Chicago"
+    "label": "Zonas de Servicio",
+    "title": "Servimos toda Andorra",
+    "body": "Ofrecemos nuestros servicios en todas las parroquias de Andorra: Andorra la Vella, Escaldes-Engordany, Encamp, La Massana, Ordino, Sant Julià de Lòria y Canillo. Si no estás seguro de que llegamos a tu zona, escríbenos y te lo confirmamos enseguida.",
+    "cta": "Contáctanos",
+    "mapTitle": "Principado de Andorra",
+    "mapSubtitle": "Servimos todas las parroquias de Andorra"
   },
   "howItWorks": {
-    "label": "Empiece en 3 Sencillos Pasos",
-    "title": "Su Solución de Confianza para el Cuidado Animal",
-    "body": "¿Listo para darle a su amigo peludo el mejor cuidado posible? Top Gos ofrece servicios de primera adaptados a sus necesidades. Ya sea que necesite un paseador, cuidador o peluquero, lo tenemos cubierto.",
-    "cta": "Contáctenos",
-    "step1": { "title": "Contáctenos", "description": "Comuníquese con Top Gos para hablar sobre sus necesidades y programar una consulta con nuestro equipo." },
-    "step2": { "title": "Consulta Personal", "description": "Reúnase con nuestro equipo para analizar los requisitos únicos de su mascota y crear un plan personalizado." },
-    "step3": { "title": "¡Disfrute!", "description": "Relájese y disfrute de la tranquilidad de saber que su amigo peludo está en buenas manos con Top Gos." }
+    "label": "Empieza en 3 Pasos Sencillos",
+    "title": "Tu solución de confianza para el cuidado del perro",
+    "body": "¿Listo para ofrecer a tu perro el mejor cuidado? Tanto si necesitas un paseador, un peluquero o alguien que lo cuide en casa, te lo ponemos fácil en tres pasos.",
+    "cta": "Contáctanos",
+    "step1": { "title": "Contáctanos", "description": "Escríbenos y cuéntanos qué necesitas y cuándo, y te propondremos la mejor opción para tu perro." },
+    "step2": { "title": "Consulta Personal", "description": "Conocemos a tu perro y sus hábitos para crear un plan de cuidado totalmente adaptado a él." },
+    "step3": { "title": "¡Disfruta!", "description": "Relájate y disfruta de la tranquilidad de saber que tu perro está en buenas manos con Top Gos." }
+  },
+  "groomingPackages": {
+    "label": "Servicios de Peluquería",
+    "title": "Paquetes a medida para",
+    "titleAccent": "cada perro",
+    "subtitle": "Tanto si tu perro necesita un retoque rápido como un día completo de spa, tenemos el paquete perfecto para él.",
+    "bookNow": "Reservar →",
+    "pkg1Name": "La Elegancia Esencial",
+    "pkg2Name": "El Día de Spa Signature",
+    "pkg3Name": "El Retiro Real"
+  },
+  "groomingAddOns": {
+    "label": "À La Carte",
+    "title": "Personaliza el día perfecto de tu perro",
+    "subtitle": "¿Necesitas algo concreto? Elige entre nuestros servicios à la carte para crear una experiencia de peluquería a medida.",
+    "bookAppointment": "Reservar Cita →",
+    "addon1Name": "Facial de Arándanos",
+    "addon1Desc": "Una limpieza suave diseñada para iluminar, calmar y refrescar el rostro de tu perro, eliminando las manchas de lágrimas.",
+    "addon2Name": "Pawdicure Plus",
+    "addon2Desc": "Un tratamiento completo de patas con corte de uñas, limado suave y un masaje relajante de las almohadillas.",
+    "addon3Name": "Cepillado Dental",
+    "addon3Desc": "Refresca el aliento de tu perro y cuida su salud bucal con una limpieza suave y minuciosa.",
+    "addon4Name": "Tratamiento Antimuda",
+    "addon4Desc": "Minimiza el pelo suelto y reduce la muda con un cepillado profundo y herramientas especializadas.",
+    "addon5Name": "Acondicionamiento del Pelaje",
+    "addon5Desc": "Hidrata, suaviza y devuelve el brillo al pelaje de tu perro con un tratamiento acondicionador nutritivo.",
+    "addon6Name": "Limpieza de Oídos",
+    "addon6Desc": "Elimina suavemente la suciedad y la cera para mantener las orejas de tu perro limpias y sin irritaciones."
   },
   "contactForm": {
-    "label": "Contáctenos",
-    "title": "Complete el Formulario",
-    "subtitle": "Reserve el próximo paseo, sesión de peluquería o programa de entrenamiento de su mascota con Top Gos hoy.",
+    "label": "Contáctanos",
+    "title": "Rellena el Formulario",
+    "subtitle": "Reserva el próximo paseo, la peluquería o el servicio de canguro de tu perro con Top Gos.",
     "name": "Nombre Completo",
     "namePlaceholder": "Juan García",
     "email": "Correo Electrónico",
     "emailPlaceholder": "juan@ejemplo.com",
     "phone": "Teléfono",
-    "phonePlaceholder": "+1 234 567 890",
-    "date": "Seleccionar Fecha",
+    "phonePlaceholder": "+376 300 000",
+    "date": "Selecciona la Fecha",
     "service": "Servicio de Interés",
-    "servicePlaceholder": "Seleccione un servicio…",
-    "message": "Su Mensaje",
-    "messagePlaceholder": "Cuéntenos un poco sobre su perro y sus objetivos…",
-    "submit": "Enviar Formulario",
+    "servicePlaceholder": "Selecciona un servicio…",
+    "message": "Tu Mensaje",
+    "messagePlaceholder": "Cuéntanos un poco sobre tu perro y qué necesitas…",
+    "submit": "Enviar el Formulario",
     "sending": "Enviando…",
     "sent": "¡Mensaje Enviado!",
-    "error": "Algo salió mal. Por favor, inténtelo de nuevo.",
+    "error": "Algo ha ido mal. Inténtalo de nuevo.",
     "services": {
       "walking": "Paseo de Perros",
       "grooming": "Peluquería Canina",
-      "training": "Entrenamiento",
-      "boarding": "Guardería Canina"
+      "sitting": "Canguro a Domicilio"
     }
   },
   "footer": {
-    "tagline": "Su socio de confianza en soluciones de cuidado animal. Servicios a medida para mascotas felices y dueños satisfechos.",
+    "tagline": "Tu socio de confianza para el cuidado de tu perro. Servicios a medida para perros felices y propietarios tranquilos.",
     "bookNow": "Reservar",
     "quickLinks": "Enlaces Rápidos",
-    "getInTouch": "Contáctenos",
+    "getInTouch": "Contacto",
     "contactForm": "Formulario de Contacto",
     "copyright": "© {year} Top Gos. Todos los derechos reservados.",
-    "built": "Hecho con amor para las mascotas del mundo"
+    "built": "Hecho con amor para los perros de Andorra"
   }
 }

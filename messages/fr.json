@@ -1,102 +1,134 @@
 {
+  "meta": {
+    "title": "Promeneur de Chien et Toilettage Canin en Andorre | Top Gos",
+    "description": "Promenade de chien avec prise en charge à domicile, toilettage canin et garde de chien à la maison dans toutes les paroisses d'Andorre. Des soins fiables. Réservez.",
+    "keywords": "promeneur de chien Andorre, promenade de chien Andorre, toilettage canin Andorre, garde de chien Andorre, dog sitter Andorre, toiletteur pour chien Andorre"
+  },
   "nav": {
     "home": "Accueil",
     "services": "Services",
-    "about": "À Propos",
+    "about": "À propos",
     "contact": "Contact",
     "bookNow": "Réserver"
   },
   "hero": {
-    "label": "Soins Attentionnés",
-    "title": "Vos gardiens d'animaux de confiance",
-    "subtitle": "Nous comprenons les besoins de vos compagnons à fourrure, votre budget et votre tranquillité d'esprit.",
-    "cta": "Nous Contacter"
+    "label": "Des Soins avec Amour",
+    "title": "Promenade, toilettage et garde de chien à domicile en Andorre",
+    "subtitle": "Nous prenons soin de votre chien près de chez vous, dans toute l'Andorre : promenades avec prise en charge à domicile, toilettage canin et garde chez vous, toujours adaptés à vous.",
+    "cta": "Contactez-nous"
   },
   "about": {
-    "label": "À Propos",
-    "title": "Des Solutions Fiables pour Vos Animaux",
-    "body": "Chez Top Gos, nous proposons des solutions de garde d'animaux 24h/24 adaptées à vos besoins. Nos professionnels hautement qualifiés offrent un service de premier ordre, garantissant le bien-être et le bonheur de vos compagnons à fourrure. Avec Top Gos, vous bénéficiez d'un service de qualité à des prix abordables, incluant un service d'urgence immédiat 24h/24. La sécurité et le bonheur de vos animaux sont notre priorité absolue.",
-    "bullet1": "Plans de soins personnalisés adaptés aux besoins de votre animal.",
-    "bullet2": "Professionnels formés dédiés au bien-être de votre animal.",
-    "bullet3": "Tranquillité d'esprit sachant que vos animaux sont entre de bonnes mains.",
-    "cta": "Nous Contacter"
+    "label": "À propos",
+    "title": "Des soins canins fiables et de proximité en Andorre",
+    "body": "Chez Top Gos, nous prenons soin des chiens d'Andorre comme s'ils étaient les nôtres. Nous proposons la promenade de chien avec prise en charge à domicile, le toilettage canin et un service de garde chez vous, toujours avec une approche proche et professionnelle. Que vous viviez à Andorra la Vella, Escaldes-Engordany ou dans une autre paroisse, ou que vous visitiez le pays quelques jours, nous adaptons chaque service au rythme et au caractère de votre compagnon.",
+    "bullet1": "Des formules de soins personnalisées selon les besoins de votre chien.",
+    "bullet2": "Des professionnels locaux qui aiment vraiment les animaux.",
+    "bullet3": "La tranquillité de savoir votre chien entre de bonnes mains.",
+    "cta": "Contactez-nous"
   },
   "services": {
     "label": "Nos Services",
-    "title": "Des Solutions Sur Mesure pour Vos Amis à Fourrure",
-    "body": "Chez Top Gos, nous comprenons que chaque animal est unique, c'est pourquoi nous proposons une gamme complète de solutions expertes de garde adaptées à vos besoins. Notre équipe s'engage à assurer le bien-être de vos compagnons à fourrure 24h/24.",
+    "title": "Des services canins sur mesure en Andorre",
+    "body": "Chaque chien est unique. C'est pourquoi nous proposons promenade, toilettage et garde à domicile adaptés aux besoins de votre animal et à votre emploi du temps, partout en Andorre.",
     "dogWalking": {
-      "title": "Promenade de Chiens",
-      "description": "Gardez votre chien actif avec des promenades adaptées à son niveau d'énergie et ses préférences."
+      "title": "Promenade de Chien",
+      "description": "Promenades individuelles ou en petit groupe selon l'énergie de votre chien, avec prise en charge et retour à domicile dans toute l'Andorre."
     },
     "grooming": {
-      "title": "Toilettage",
-      "description": "Des séances de toilettage professionnel pour que votre animal soit au meilleur de sa forme."
+      "title": "Toilettage Canin",
+      "description": "Bain, coupe et toilettage professionnel pour un chien propre, sain et heureux."
     },
     "sitting": {
       "title": "Garde à Domicile",
-      "description": "Garde fiable à domicile pour que vos animaux restent confortables dans leur environnement."
+      "description": "Nous gardons votre chien chez vous, dans son environnement habituel. Service sur demande, idéal lors de vos absences."
     }
   },
   "testimonials": {
-    "label": "Témoignages Clients",
-    "title": "Ce Que Disent Nos Clients",
-    "subtitle": "Découvrez les expériences touchantes des propriétaires d'animaux qui ont confié leurs compagnons à Top Gos.",
-    "t1": { "title": "Parfait pour les Emplois du Temps Chargés", "body": "Les services de promenade de Top Gos ont été une bouée de sauvetage pour ma famille. Je leur fais entièrement confiance pour mon meilleur ami à fourrure.", "name": "J. Thompson", "role": "Propriétaire" },
-    "t2": { "title": "Programme d'Éducation Transformateur", "body": "Le programme d'éducation de Top Gos a transformé le comportement de mon animal. Je ne pourrais pas être plus heureux des résultats !", "name": "Emily P.", "role": "Propriétaire" },
-    "t3": { "title": "Fiable et Attentionné", "body": "Top Gos a tout changé pour nous — fiable, attentionné et vraiment compétent. Je me sens tellement mieux de savoir que mes animaux sont en sécurité.", "name": "Sarah M.", "role": "Propriétaire de Chien" },
-    "t4": { "title": "Excellent Service de Toilettage", "body": "Mon chien revient comme une star à chaque fois ! Les toiletteurs sont doux, professionnels et adorent clairement leur travail.", "name": "Mike R.", "role": "Propriétaire" }
+    "label": "Témoignages",
+    "title": "Ce que disent nos clients",
+    "subtitle": "Découvrez les expériences de propriétaires d'Andorre qui ont confié leur chien à Top Gos.",
+    "t1": { "title": "Parfait pour les emplois du temps chargés", "body": "Ils viennent chercher Lua à la maison et me la ramènent fatiguée et heureuse. Avec mon travail, je n'aurais pas le temps de la promener comme elle le mérite. Un service impeccable.", "name": "Marta R.", "role": "Propriétaire de chien à Andorra la Vella" },
+    "t2": { "title": "Sereins pendant les vacances", "body": "Nous sommes partis quelques jours et ils ont gardé notre chien chez nous. Ils nous envoyaient des photos chaque jour et nous l'avons retrouvé aussi calme que d'habitude. Nous recommencerons.", "name": "David S.", "role": "Propriétaire de chien à Escaldes-Engordany" },
+    "t3": { "title": "Fiables et proches", "body": "Ce que j'apprécie le plus, c'est la confiance. Ponctuels, attentionnés, ils traitent mon chien comme le leur. Je recommande à 100 %.", "name": "Cristina F.", "role": "Propriétaire de chien à La Massana" },
+    "t4": { "title": "Un toilettage au top", "body": "Mon chien revient propre, bien coupé et content. On voit qu'ils aiment les animaux et soignent chaque détail.", "name": "Marc T.", "role": "Propriétaire de chien à Encamp" }
   },
   "areas": {
     "label": "Zones Desservies",
-    "title": "Chicago et Ses Environs",
-    "body": "Des rues animées du centre-ville aux quartiers paisibles de la banlieue, Top Gos est fier de servir les propriétaires d'animaux de Chicago et au-delà. Si vous avez des questions sur notre zone de couverture, n'hésitez pas à nous contacter.",
-    "cta": "Nous Contacter",
-    "mapTitle": "Chicago, IL et Banlieue",
-    "mapSubtitle": "Desservant la grande région de Chicago"
+    "title": "Nous desservons toute l'Andorre",
+    "body": "Nous proposons nos services dans toutes les paroisses d'Andorre : Andorra la Vella, Escaldes-Engordany, Encamp, La Massana, Ordino, Sant Julià de Lòria et Canillo. Si vous n'êtes pas sûr que nous couvrons votre secteur, écrivez-nous et nous vous confirmons rapidement.",
+    "cta": "Contactez-nous",
+    "mapTitle": "Principauté d'Andorre",
+    "mapSubtitle": "Nous desservons toutes les paroisses d'Andorre"
   },
   "howItWorks": {
-    "label": "Démarrez en 3 Étapes Simples",
-    "title": "Votre Solution de Confiance pour Vos Animaux",
-    "body": "Prêt à offrir à votre ami à fourrure les meilleurs soins possibles ? Top Gos propose des services de premier ordre adaptés à vos besoins. Que vous ayez besoin d'un promeneur, d'un gardien ou d'un toiletteur, nous sommes là pour vous.",
-    "cta": "Nous Contacter",
-    "step1": { "title": "Contactez-nous", "description": "Contactez Top Gos pour discuter de vos besoins et planifier une consultation avec notre équipe." },
-    "step2": { "title": "Consultation Personnelle", "description": "Rencontrez notre équipe pour discuter des besoins spécifiques de votre animal et élaborer un plan sur mesure." },
-    "step3": { "title": "Profitez-en !", "description": "Détendez-vous et profitez de la tranquillité d'esprit en sachant que votre compagnon est entre de bonnes mains." }
+    "label": "Commencez en 3 Étapes Simples",
+    "title": "Votre solution de confiance pour la garde de votre chien",
+    "body": "Prêt à offrir à votre chien les meilleurs soins ? Que vous cherchiez un promeneur, un toiletteur ou quelqu'un pour le garder chez vous, nous simplifions tout en trois étapes.",
+    "cta": "Contactez-nous",
+    "step1": { "title": "Contactez-nous", "description": "Écrivez-nous pour nous dire ce dont vous avez besoin et quand ; nous vous proposerons la meilleure option pour votre chien." },
+    "step2": { "title": "Consultation Personnalisée", "description": "Nous apprenons à connaître votre chien et ses habitudes pour créer un plan de soins entièrement adapté." },
+    "step3": { "title": "Profitez !", "description": "Détendez-vous et profitez de la tranquillité de savoir votre chien entre de bonnes mains avec Top Gos." }
+  },
+  "groomingPackages": {
+    "label": "Services de Toilettage",
+    "title": "Des formules sur mesure pour",
+    "titleAccent": "chaque chien",
+    "subtitle": "Que votre chien ait besoin d'une retouche rapide ou d'une journée spa complète, nous avons la formule idéale.",
+    "bookNow": "Réserver →",
+    "pkg1Name": "L'Élégance Essentielle",
+    "pkg2Name": "La Journée Spa Signature",
+    "pkg3Name": "La Retraite Royale"
+  },
+  "groomingAddOns": {
+    "label": "À La Carte",
+    "title": "Composez la journée parfaite de votre chien",
+    "subtitle": "Besoin d'un soin précis ? Choisissez parmi nos services à la carte pour une expérience de toilettage sur mesure.",
+    "bookAppointment": "Prendre Rendez-vous →",
+    "addon1Name": "Soin du Visage aux Myrtilles",
+    "addon1Desc": "Un nettoyage doux pour illuminer, apaiser et rafraîchir le museau de votre chien, tout en estompant les taches de larmes.",
+    "addon2Name": "Pawdicure Plus",
+    "addon2Desc": "Un soin complet des pattes avec coupe des griffes, limage doux et un massage relaxant des coussinets.",
+    "addon3Name": "Brossage des Dents",
+    "addon3Desc": "Rafraîchissez l'haleine de votre chien et préservez sa santé bucco-dentaire avec un brossage doux et minutieux.",
+    "addon4Name": "Traitement Anti-Mue",
+    "addon4Desc": "Réduisez les poils morts et la mue grâce à un brossage en profondeur et des outils spécialisés.",
+    "addon5Name": "Soin du Pelage",
+    "addon5Desc": "Hydratez, assouplissez et ravivez la brillance du pelage de votre chien avec un soin nourrissant.",
+    "addon6Name": "Nettoyage des Oreilles",
+    "addon6Desc": "Éliminez en douceur les saletés et le cérumen pour des oreilles propres et sans irritation."
   },
   "contactForm": {
     "label": "Contactez-nous",
     "title": "Remplissez le Formulaire",
-    "subtitle": "Planifiez la prochaine promenade, séance de toilettage ou programme d'éducation de votre animal avec Top Gos.",
+    "subtitle": "Réservez la prochaine promenade, le toilettage ou la garde de votre chien avec Top Gos.",
     "name": "Nom Complet",
     "namePlaceholder": "Jean Dupont",
     "email": "E-mail",
     "emailPlaceholder": "jean@exemple.com",
     "phone": "Téléphone",
-    "phonePlaceholder": "+1 234 567 890",
-    "date": "Sélectionner une Date",
+    "phonePlaceholder": "+376 300 000",
+    "date": "Choisissez la Date",
     "service": "Service Souhaité",
     "servicePlaceholder": "Choisissez un service…",
     "message": "Votre Message",
-    "messagePlaceholder": "Dites-nous un peu ce que vous attendez pour votre chien…",
+    "messagePlaceholder": "Parlez-nous un peu de votre chien et de vos besoins…",
     "submit": "Envoyer le Formulaire",
-    "sending": "Envoi en cours…",
+    "sending": "Envoi…",
     "sent": "Message Envoyé !",
-    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "error": "Une erreur s'est produite. Veuillez réessayer.",
     "services": {
-      "walking": "Promenade de Chiens",
-      "grooming": "Toilettage",
-      "training": "Éducation Canine",
-      "boarding": "Pension Canine"
+      "walking": "Promenade de Chien",
+      "grooming": "Toilettage Canin",
+      "sitting": "Garde à Domicile"
     }
   },
   "footer": {
-    "tagline": "Votre partenaire de confiance en solutions de garde d'animaux. Des services sur mesure pour des animaux heureux et des propriétaires satisfaits.",
+    "tagline": "Votre partenaire de confiance pour le bien-être de votre chien. Des services sur mesure pour des chiens heureux et des maîtres sereins.",
     "bookNow": "Réserver",
     "quickLinks": "Liens Rapides",
-    "getInTouch": "Nous Contacter",
+    "getInTouch": "Contact",
     "contactForm": "Formulaire de Contact",
     "copyright": "© {year} Top Gos. Tous droits réservés.",
-    "built": "Fait avec amour pour les animaux du monde entier"
+    "built": "Fait avec amour pour les chiens d'Andorre"
   }
 }

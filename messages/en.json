@@ -1,4 +1,9 @@
 {
+  "meta": {
+    "title": "Dog Walking & Pet Grooming in Andorra | Top Gos",
+    "description": "Dog walking with home pick-up, professional grooming and in-home dog sitting across every parish of Andorra. Trusted, local care for your dog. Book today.",
+    "keywords": "dog walking Andorra, dog walker Andorra, pet grooming Andorra, dog grooming Andorra, dog sitting Andorra, pet sitting Andorra"
+  },
   "nav": {
     "home": "Home",
     "services": "Services",
@@ -8,95 +13,122 @@
   },
   "hero": {
     "label": "Loving Care",
-    "title": "Your trusted pet caregivers",
-    "subtitle": "We understand the needs of your furry companions, your budget, and your peace of mind.",
-    "cta": "Get In Touch"
+    "title": "Dog walking, grooming and in-home care in Andorra",
+    "subtitle": "We look after your dog close to home, right across Andorra: walks with home pick-up, professional grooming and sitting in your own home, always tailored to you.",
+    "cta": "Get in Touch"
   },
   "about": {
     "label": "About Us",
-    "title": "Providing Reliable Pet Care Solutions",
-    "body": "At Top Gos, we provide 24/7 pet care solutions tailored to your needs. Our highly skilled professionals deliver top-notch service, ensuring the well-being and happiness of your furry companions. With Top Gos, you get first-class quality service at affordable prices, including immediate 24/7 emergency service for urgent situations. Your pets' safety and happiness are our top priorities.",
-    "bullet1": "Personalized care plans tailored to your pet's needs.",
-    "bullet2": "Trained professionals dedicated to your pet's well-being.",
-    "bullet3": "Peace of mind knowing your pets are in trusted hands.",
-    "cta": "Get In Touch"
+    "title": "Trusted, local dog care in Andorra",
+    "body": "At Top Gos we care for Andorra's dogs as if they were our own. We offer dog walking with home pick-up, professional grooming and in-home dog sitting, always with a warm, professional touch. Whether you live in Andorra la Vella, Escaldes-Engordany or any other parish, or you're visiting the country for a few days, we tailor every service to your dog's pace and personality.",
+    "bullet1": "Personalised care plans built around your dog's needs.",
+    "bullet2": "Local professionals who genuinely love animals.",
+    "bullet3": "Peace of mind knowing your dog is in good hands.",
+    "cta": "Get in Touch"
   },
   "services": {
     "label": "Our Services",
-    "title": "Tailored Solutions for Your Furry Friends",
-    "body": "At Top Gos, we understand that every pet is unique, which is why we offer a comprehensive range of expert pet care solutions tailored to your needs. Our dedicated team is committed to ensuring the well-being and happiness of your furry companions 24/7.",
+    "title": "Tailored dog care services in Andorra",
+    "body": "Every dog is different. That's why we offer walking, grooming and in-home care shaped around your pet's needs and your schedule, anywhere in Andorra.",
     "dogWalking": {
       "title": "Dog Walking",
-      "description": "Keep your pup active with tailored walks that cater to their energy level and preferences."
+      "description": "Solo or small-group walks matched to your dog's energy, with pick-up and drop-off at your home anywhere in Andorra."
     },
     "grooming": {
       "title": "Pet Grooming",
-      "description": "Professional grooming sessions to keep your pet looking and feeling their absolute best."
+      "description": "Bathing, trimming and professional styling to keep your dog clean, healthy and happy."
     },
     "sitting": {
-      "title": "Pet Sitting",
-      "description": "Reliable in-home sitting so your pets stay comfortable in their own environment."
+      "title": "In-Home Dog Sitting",
+      "description": "We care for your dog in your own home, in their familiar surroundings. Available on request, ideal when you're away."
     }
   },
   "testimonials": {
-    "label": "Client Testimonials",
-    "title": "Hear What Our Clients Have to Say",
-    "subtitle": "Explore the heartfelt experiences of pet owners who have entrusted their furry companions to Top Gos. Learn why they choose our reliable and caring pet care services time and again.",
-    "t1": { "title": "Perfect for Busy Schedules", "body": "Top Gos's walking services have been a lifesaver for my family. I trust them completely with my furry best friend. Their reliability and care are unmatched.", "name": "J. Thompson", "role": "Pet Owner" },
-    "t2": { "title": "Transformational Training Program", "body": "Top Gos's training program transformed my pet's behavior. I couldn't be happier with the results! Their expertise and dedication truly made a difference in my pet's life.", "name": "Emily P.", "role": "Pet Owner" },
-    "t3": { "title": "Reliable and Caring", "body": "Top Gos was a game-changer for us — reliable, caring, and truly knowledgeable. I feel so much better knowing my pets are in safe hands every single day.", "name": "Sarah M.", "role": "Dog Owner" },
-    "t4": { "title": "Outstanding Grooming Service", "body": "My dog comes back looking like a superstar every time! The groomers are gentle, professional, and clearly love what they do. Highly recommend!", "name": "Mike R.", "role": "Pet Owner" }
+    "label": "Testimonials",
+    "title": "What our clients say",
+    "subtitle": "Read the experiences of dog owners across Andorra who trust their dogs to Top Gos.",
+    "t1": { "title": "Perfect for busy schedules", "body": "They pick Lua up from home and bring her back tired and happy. With my job I'd never have time to walk her the way she deserves. A flawless service.", "name": "Marta R.", "role": "Dog owner in Andorra la Vella" },
+    "t2": { "title": "Peace of mind on holiday", "body": "We went away for a few days and they looked after our dog in our own home. They sent photos every day and he was as relaxed as ever. We'll definitely do it again.", "name": "David S.", "role": "Dog owner in Escaldes-Engordany" },
+    "t3": { "title": "Reliable and caring", "body": "What I value most is the trust. They're punctual, affectionate and treat my dog as their own. Recommended one hundred percent.", "name": "Cristina F.", "role": "Dog owner in La Massana" },
+    "t4": { "title": "Top-class grooming", "body": "My dog comes back clean, beautifully trimmed and content. You can tell they love animals and care about every detail.", "name": "Marc T.", "role": "Dog owner in Encamp" }
   },
   "areas": {
     "label": "Areas We Serve",
-    "title": "Andorra",
-    "body": "From the bustling streets of downtown to the cozy neighborhoods of the suburbs, Top Gos is proud to serve the pet owners of Chicago and beyond. Our dedicated team is committed to providing top-notch pet care services to furry companions across the city. If you have any questions about whether we serve your area, don't hesitate to reach out.",
-    "cta": "Get In Touch",
-    "mapTitle": "Andorra",
-    "mapSubtitle": "Serving Andorra"
+    "title": "We serve all of Andorra",
+    "body": "We offer our services across every parish of Andorra: Andorra la Vella, Escaldes-Engordany, Encamp, La Massana, Ordino, Sant Julià de Lòria and Canillo. Not sure we reach your area? Drop us a message and we'll confirm right away.",
+    "cta": "Get in Touch",
+    "mapTitle": "Principality of Andorra",
+    "mapSubtitle": "Serving every parish of Andorra"
   },
   "howItWorks": {
     "label": "Get Started in 3 Easy Steps",
-    "title": "Your Trusted Pet Care Solution",
-    "body": "Ready to give your furry friend the best care possible? Top Gos offers top-notch pet care services tailored to your needs. Whether you need a dog walker, pet sitter, or grooming, we've got you covered.",
-    "cta": "Get In Touch",
-    "step1": { "title": "Contact Us", "description": "Reach out to Top Gos to discuss your pet care needs and schedule a consultation with our team." },
-    "step2": { "title": "Personal Consultation", "description": "Meet with our team to discuss your pet's unique requirements and tailor a customized care plan." },
-    "step3": { "title": "Start Enjoying", "description": "Sit back, relax, and enjoy peace of mind knowing your furry friend is in good hands with Top Gos." }
+    "title": "Your trusted dog care solution",
+    "body": "Ready to give your dog the best care? Whether you need a walker, a groomer or someone to look after them at home, we make it easy in three simple steps.",
+    "cta": "Get in Touch",
+    "step1": { "title": "Contact Us", "description": "Message us with what you need and when, and we'll suggest the best option for your dog." },
+    "step2": { "title": "Personal Consultation", "description": "We get to know your dog and their routine to build a care plan that's right for them." },
+    "step3": { "title": "Enjoy!", "description": "Sit back and enjoy the peace of mind of knowing your dog is in good hands with Top Gos." }
+  },
+  "groomingPackages": {
+    "label": "Grooming Services",
+    "title": "Tailored packages for",
+    "titleAccent": "every dog",
+    "subtitle": "Whether your dog needs a quick tidy-up or a full spa day, we have the perfect package.",
+    "bookNow": "Book Now →",
+    "pkg1Name": "The Essential Elegance",
+    "pkg2Name": "The Signature Spa Day",
+    "pkg3Name": "The Royal Retreat"
+  },
+  "groomingAddOns": {
+    "label": "À La Carte",
+    "title": "Customise your dog's perfect day",
+    "subtitle": "Need something specific? Choose from our à la carte services to create a tailored grooming experience.",
+    "bookAppointment": "Book Appointment →",
+    "addon1Name": "Blueberry Facial",
+    "addon1Desc": "A gentle cleanse that brightens, soothes and refreshes your dog's face while reducing tear stains.",
+    "addon2Name": "Pawdicure Plus",
+    "addon2Desc": "A complete paw treatment with nail trim, gentle filing and a relaxing pad massage.",
+    "addon3Name": "Teeth Brushing",
+    "addon3Desc": "Freshen your dog's breath and support oral health with a gentle, thorough brushing.",
+    "addon4Name": "De-Shedding Treatment",
+    "addon4Desc": "Minimise loose hair and reduce shedding with deep brushing and specialised tools.",
+    "addon5Name": "Coat Conditioning",
+    "addon5Desc": "Hydrate, soften and restore shine to your dog's coat with a nourishing conditioning treatment.",
+    "addon6Name": "Ear Cleaning",
+    "addon6Desc": "Gently remove dirt and wax to keep your dog's ears clean and irritation-free."
   },
   "contactForm": {
     "label": "Contact Us",
     "title": "Fill Out the Form",
-    "subtitle": "Schedule your pet's next walk, grooming session, or training program with Top Gos today.",
+    "subtitle": "Book your dog's next walk, grooming session or sitting service with Top Gos.",
     "name": "Full Name",
-    "namePlaceholder": "Jane Smith",
+    "namePlaceholder": "John Smith",
     "email": "Email",
-    "emailPlaceholder": "jane@example.com",
+    "emailPlaceholder": "john@example.com",
     "phone": "Phone",
-    "phonePlaceholder": "+1 234 567 890",
+    "phonePlaceholder": "+376 300 000",
     "date": "Select Date",
-    "service": "Service Interested In",
+    "service": "Service of Interest",
     "servicePlaceholder": "Select a service…",
     "message": "Your Message",
-    "messagePlaceholder": "Tell us a bit about your dog and goals…",
+    "messagePlaceholder": "Tell us a little about your dog and what you need…",
     "submit": "Submit Form",
     "sending": "Sending…",
     "sent": "Message Sent!",
     "error": "Something went wrong. Please try again.",
     "services": {
       "walking": "Dog Walking",
-      "grooming": "Dog Grooming",
-      "training": "Pet Training",
-      "boarding": "Dog Boarding"
+      "grooming": "Pet Grooming",
+      "sitting": "In-Home Dog Sitting"
     }
   },
   "footer": {
-    "tagline": "Your trusted partner in pet care solutions. Tailored services for happy pets and satisfied owners.",
+    "tagline": "Your trusted partner in dog care. Tailored services for happy dogs and relaxed owners.",
     "bookNow": "Book Now",
     "quickLinks": "Quick Links",
-    "getInTouch": "Get In Touch",
+    "getInTouch": "Get in Touch",
     "contactForm": "Contact Form",
     "copyright": "© {year} Top Gos. All rights reserved.",
-    "built": "Built with love for pets everywhere"
+    "built": "Made with love for the dogs of Andorra"
   }
 }

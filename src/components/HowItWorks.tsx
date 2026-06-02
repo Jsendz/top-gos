@@ -61,6 +61,7 @@ export default async function HowItWorks() {
                   <h3 className="text-white font-bold text-lg mb-1">{step.title}</h3>
                   <p className="text-white/60 text-sm leading-relaxed">{step.description}</p>
                 </div>
+                
               </div>
             </StaggerItem>
           ))}

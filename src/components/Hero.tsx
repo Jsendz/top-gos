@@ -35,7 +35,7 @@ export default async function Hero() {
 
         {/* Staggered text reveal on load */}
         <StaggerReveal
-          className="relative z-10 flex flex-col justify-center h-full px-6 sm:px-10 md:px-14 max-w-xl"
+          className="relative z-10 flex flex-col justify-center h-full px-6 sm:px-10 md:px-14 max-w-3xl"
           delay={0.1}
         >
           <StaggerItem>

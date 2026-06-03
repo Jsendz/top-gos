@@ -41,7 +41,7 @@ export default function LanguageSwitcher({ scrolled }: { scrolled: boolean }) {
         className={`flex items-center gap-1.5 text-sm font-semibold px-3 py-1.5 rounded-full border transition-colors duration-200 ${
           scrolled
             ? "border-[#2e4a5c]/30 text-[#2e4a5c] hover:bg-[#2e4a5c] hover:text-white hover:border-[#2e4a5c]"
-            : "border-white/40 text-white hover:border-white"
+            : "border-[#2e4a5c]/30 text-slate-800 hover:border-[#2e4a5c]"
         }`}
       >
         {locale.toUpperCase()}

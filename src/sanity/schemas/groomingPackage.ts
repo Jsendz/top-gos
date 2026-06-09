@@ -36,15 +36,21 @@ export const groomingPackage = defineType({
       ],
     }),
     defineField({
+      name: "image",
+      title: "Package Image",
+      type: "image",
+      options: { hotspot: true },
+    }),
+    defineField({
       name: "order",
       title: "Display Order",
       type: "number",
     }),
   ],
   preview: {
-    select: { title: "name.en", subtitle: "price" },
-    prepare({ title, subtitle }: { title?: string; subtitle?: string }) {
-      return { title: title || "Untitled Package", subtitle };
+    select: { title: "name.en", subtitle: "price", media: "image" },
+    prepare({ title, subtitle, media }: { title?: string; subtitle?: string; media?: unknown }) {
+      return { title: title || "Untitled Package", subtitle, media };
     },
   },
 });

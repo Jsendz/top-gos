@@ -57,7 +57,8 @@ export const stepsQuery = groq`
 
 export const groomingPackagesQuery = groq`
   *[_type == "groomingPackage"] | order(order asc) {
-    name
+    name, price, features,
+    "imageUrl": image.asset->url
   }
 `;
 

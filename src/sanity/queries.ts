@@ -2,6 +2,8 @@ import { groq } from "next-sanity";
 
 export const homepageQuery = groq`
   *[_type == "homepage"][0] {
+    meta { title, description, keywords },
+    nav { home, services, about, contact, bookNow },
     hero {
       label, title, subtitle, ctaText,
       backgroundImage { asset->{ url } }
@@ -15,6 +17,21 @@ export const homepageQuery = groq`
     testimonialsSection { label, title, subtitle },
     areasSection { label, title, body, ctaText, mapTitle, mapSubtitle },
     howItWorksSection { label, title, body, ctaText },
+    groomingPackagesSection { label, title, titleAccent, subtitle, bookNow },
+    groomingAddOnsSection { label, title, subtitle, bookAppointment },
+    contactFormSection {
+      label, title, subtitle,
+      name, namePlaceholder, email, emailPlaceholder,
+      phone, phonePlaceholder, date,
+      service, servicePlaceholder,
+      message, messagePlaceholder,
+      submit, sending, sent, error,
+      services { walking, grooming, sitting }
+    },
+    footerSection {
+      tagline, bookNow, quickLinks, getInTouch,
+      contactForm, copyright, built
+    },
     siteSettings { email, phone, footerTagline }
   }
 `;
@@ -35,5 +52,17 @@ export const testimonialsQuery = groq`
 export const stepsQuery = groq`
   *[_type == "step"] | order(order asc) {
     number, title, description
+  }
+`;
+
+export const groomingPackagesQuery = groq`
+  *[_type == "groomingPackage"] | order(order asc) {
+    name
+  }
+`;
+
+export const groomingAddonsQuery = groq`
+  *[_type == "groomingAddon"] | order(order asc) {
+    name, description
   }
 `;

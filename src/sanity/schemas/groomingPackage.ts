@@ -49,7 +49,7 @@ export const groomingPackage = defineType({
   ],
   preview: {
     select: { title: "name.en", subtitle: "price", media: "image" },
-    prepare({ title, subtitle, media }: { title?: string; subtitle?: string; media?: unknown }) {
+    prepare({ title, subtitle, media }) {
       return { title: title || "Untitled Package", subtitle, media };
     },
   },

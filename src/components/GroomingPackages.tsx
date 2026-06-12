@@ -9,6 +9,7 @@ const PACKAGES = [
   {
     id: 'essential',
     nameKey: 'pkg1Name' as const,
+    image: '/gos-form.jpg',
     price: '$80',
     features: [
       'Gentle bath with pet-safe shampoo',
@@ -22,6 +23,7 @@ const PACKAGES = [
   {
     id: 'signature',
     nameKey: 'pkg2Name' as const,
+    image: '/gos-form.jpg',
     price: '$120',
     features: [
       'Everything in The Essential Elegance',
@@ -35,6 +37,7 @@ const PACKAGES = [
   {
     id: 'royal',
     nameKey: 'pkg3Name' as const,
+    image: '/gos-form.jpg',
     price: '$160',
     features: [
       'Everything in The Signature Spa Day',
@@ -98,13 +101,10 @@ export default function GroomingPackages() {
           <Reveal direction="left" className="flex-1 w-full">
             <div className="relative w-full aspect-[4/5] rounded-3xl overflow-hidden bg-[#e8e4dd]">
               <Image
-                src={`/grooming-${pkg.id}.jpg`}
+                src={pkg.image}
                 alt={t(pkg.nameKey)}
                 fill
                 className="object-cover"
-                onError={(e) => {
-                  (e.currentTarget as HTMLImageElement).style.display = 'none';
-                }}
               />
             </div>
           </Reveal>

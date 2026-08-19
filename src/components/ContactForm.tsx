@@ -193,7 +193,7 @@ export default function ContactForm() {
             <div className="relative w-full aspect-[4/3] rounded-3xl overflow-hidden bg-[#2e4a5c]">
               <Image
                 src="/gos-form.jpg"
-                alt=""
+                alt="Book a dog walking, grooming or sitting appointment with Top Gos in Andorra"
                 fill
                 className="object-cover"
                 onError={(e) => {

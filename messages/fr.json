@@ -30,6 +30,7 @@
     "label": "Nos Services",
     "title": "Des services canins sur mesure en Andorre",
     "body": "Chaque chien est unique. C'est pourquoi nous proposons promenade, toilettage et garde à domicile adaptés aux besoins de votre animal et à votre emploi du temps, partout en Andorre.",
+    "learnMore": "En savoir plus",
     "dogWalking": {
       "title": "Promenade de Chien",
       "description": "Promenades individuelles ou en petit groupe selon l'énergie de votre chien, avec prise en charge et retour à domicile dans toute l'Andorre."
@@ -130,5 +131,96 @@
     "contactForm": "Formulaire de Contact",
     "copyright": "© {year} Top Gos. Tous droits réservés.",
     "built": "Fait avec amour pour les chiens d'Andorre"
+  },
+  "servicePages": {
+    "highlightsTitle": "Ce Qui Est Inclus",
+    "faqTitle": "Questions Fréquentes",
+    "dogWalking": {
+      "meta": {
+        "title": "Promeneur de Chien en Andorre | Prise en Charge à Domicile | Top Gos",
+        "description": "Promenade de chien professionnelle dans toutes les paroisses d'Andorre, avec prise en charge et retour à domicile. Promenades individuelles ou en petit groupe. Réservez."
+      },
+      "hero": {
+        "label": "Promenade de Chien",
+        "title": "Promenade de chien en Andorre, prise en charge à domicile incluse",
+        "subtitle": "Promenades individuelles ou en petit groupe adaptées au rythme et à l'énergie de votre chien, avec prise en charge et retour devant chez vous, partout en Andorre."
+      },
+      "intro": {
+        "p1": "Tous les chiens ont besoin de bouger, de renifler et d'explorer, mais tous les propriétaires n'ont pas le temps de le faire chaque jour. Chez Top Gos, nous nous en occupons : un de nos promeneurs locaux vient chercher votre chien à la maison, lui offre une promenade adaptée à sa race, son âge et son niveau d'énergie, et vous le ramène heureux et fatigué, toujours à l'heure.",
+        "p2": "Nous gardons des groupes restreints (ou proposons des promenades individuelles, si votre chien préfère) pour que chaque chien reçoive une vraie attention, pas juste un tour rapide du pâté de maisons. Que vous ayez besoin d'une routine quotidienne ou d'une promenade ponctuelle quand votre emploi du temps se charge, nous nous adaptons à vous."
+      },
+      "highlights": [
+        "Prise en charge et retour à domicile dans toute l'Andorre",
+        "Promenades individuelles ou en petit groupe, à votre choix",
+        "Durée et rythme adaptés à l'âge et à l'énergie de votre chien",
+        "Horaires flexibles : quotidiens, hebdomadaires ou ponctuels",
+        "Photos de la promenade pour vous tenir informé"
+      ],
+      "faq": {
+        "q1": "Combien de temps durent les promenades ?",
+        "a1": "La plupart des promenades durent entre 30 et 60 minutes, selon les besoins de votre chien ; nous convenons de la durée adaptée lors de la réservation.",
+        "q2": "Promenez-vous les chiens en groupe ou seul à seul ?",
+        "a2": "Les deux. Certains chiens préfèrent les promenades individuelles, d'autres apprécient la compagnie d'un petit groupe bien choisi. Nous vous conseillerons ce qui convient le mieux à votre chien."
+      },
+      "cta": "Réserver une Promenade"
+    },
+    "grooming": {
+      "meta": {
+        "title": "Toilettage Canin en Andorre | Bain, Coupe et Formules Spa | Top Gos",
+        "description": "Toilettage canin professionnel en Andorre : bain, coupe et soin esthétique, formules spa et options à la carte comme le brossage des dents. Réservez."
+      },
+      "hero": {
+        "label": "Toilettage Canin",
+        "title": "Toilettage canin professionnel en Andorre",
+        "subtitle": "Bain, coupe et soin esthétique pour un chien propre, en bonne santé et à l'aise, d'une retouche rapide à une journée spa complète."
+      },
+      "intro": {
+        "p1": "Un bon toilettage, ce n'est pas qu'une question d'apparence : le bain, le brossage et l'entretien régulier des griffes gardent votre chien à l'aise et permettent de repérer tôt d'éventuels problèmes de peau, de pelage ou d'oreilles. Nos toiletteurs travaillent avec calme et patience, en particulier avec les chiens nerveux ou novices.",
+        "p2": "Choisissez l'une de nos formules, de L'Élégance Essentielle à La Retraite Royale, ou composez votre propre visite avec des options à la carte comme le soin du visage aux myrtilles, le traitement anti-mue ou le brossage des dents. Chaque séance est adaptée au type de pelage et aux besoins de votre chien."
+      },
+      "highlights": [
+        "Bain doux avec un shampooing adapté aux chiens",
+        "Coupe et mise en forme adaptées à la race",
+        "Coupe des griffes, nettoyage des oreilles et soin des coussinets inclus",
+        "Formules spa et options à la carte",
+        "Prise en charge calme et patiente pour les chiens nerveux ou âgés"
+      ],
+      "faq": {
+        "q1": "À quelle fréquence faut-il toiletter mon chien ?",
+        "a1": "La plupart des chiens se portent bien avec un toilettage complet toutes les 4 à 6 semaines, selon le type de pelage et le mode de vie ; demandez-nous conseil, nous vous proposerons un rythme adapté.",
+        "q2": "Toilettez-vous les chiots ou les chiens nerveux ?",
+        "a2": "Oui, nous avançons au rythme de votre chien, avec une patience particulière pour les chiots, les seniors et les chiens anxieux, et pouvons commencer par une courte séance de découverte si besoin."
+      },
+      "cta": "Réserver un Toilettage"
+    },
+    "sitting": {
+      "meta": {
+        "title": "Garde de Chien à Domicile en Andorre | Top Gos",
+        "description": "Garde de chien à domicile partout en Andorre : votre chien reste dans son environnement pendant votre absence, avec photos et nouvelles chaque jour. Réservez."
+      },
+      "hero": {
+        "label": "Garde à Domicile",
+        "title": "Garde de chien à domicile, ici en Andorre",
+        "subtitle": "Votre chien reste exactement là où il se sent le plus en sécurité : chez vous, pendant qu'un garde local de confiance s'occupe de tout le reste."
+      },
+      "intro": {
+        "p1": "La pension canine ne convient pas à tous les chiens. La garde à domicile signifie que votre chien garde son propre panier, sa routine et son jardin, pendant que nous nous occupons des repas, des promenades, des médicaments si besoin, et de lui tenir compagnie, chez vous.",
+        "p2": "C'est idéal pour un court séjour, des vacances plus longues ou un imprévu de dernière minute, et particulièrement rassurant pour les chiens âgés, anxieux, ou les foyers avec plusieurs animaux qu'il est plus simple de garder ensemble que de séparer entre plusieurs pensions."
+      },
+      "highlights": [
+        "Votre chien reste chez lui, dans sa routine",
+        "Repas, promenades et médicaments pris en charge si besoin",
+        "Photos et nouvelles chaque jour pendant votre absence",
+        "Idéal pour les chiens anxieux, âgés ou les foyers à plusieurs chiens",
+        "Disponible pour un court séjour ou des vacances prolongées"
+      ],
+      "faq": {
+        "q1": "Comment accédez-vous à mon domicile pendant mon absence ?",
+        "a1": "Nous convenons ensemble d'une remise sécurisée des clés ou d'un accès avant votre départ, et confirmons tous les détails lors de la consultation préalable à la réservation.",
+        "q2": "Pouvez-vous donner des médicaments à mon chien si besoin ?",
+        "a2": "Oui, nos gardes peuvent administrer les médicaments selon vos indications ; il suffit de nous en donner les détails lors de la réservation."
+      },
+      "cta": "Réserver une Garde à Domicile"
+    }
   }
 }

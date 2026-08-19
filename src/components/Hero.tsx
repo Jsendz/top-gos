@@ -25,7 +25,7 @@ export default async function Hero() {
       <div className="relative mx-auto max-w-[1152px] h-[420px] sm:h-[480px] md:h-[540px] lg:h-[580px] rounded-2xl overflow-hidden">
         <Image
           src={bgImage || "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=1600&q=80"}
-          alt="Hero background"
+          alt="Dog walking, grooming and in-home care in Andorra"
           fill
           priority
           sizes="(max-width: 640px) 100vw, (max-width: 1200px) 100vw, 1152px"
@@ -55,7 +55,7 @@ export default async function Hero() {
           </StaggerItem>
           <StaggerItem>
             <a
-              href="#contact"
+              href="#book"
               className="inline-block self-start border-2 border-[#f6c882] text-[#f6c882] hover:bg-[#f6c882] hover:text-[#2e4a5c] font-semibold text-sm sm:text-base px-5 sm:px-6 py-2.5 sm:py-3 rounded-full transition-colors duration-200"
             >
               {cta}

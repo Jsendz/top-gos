@@ -30,6 +30,7 @@
     "label": "Els Nostres Serveis",
     "title": "Serveis de cura canina a mida a Andorra",
     "body": "Cada gos és únic. Per això oferim passeig, perruqueria i cura a domicili adaptats a les necessitats de la vostra mascota i a la vostra agenda, arreu d'Andorra.",
+    "learnMore": "Més informació",
     "dogWalking": {
       "title": "Passeig de Gossos",
       "description": "Passejos individuals o en grup segons l'energia del vostre gos, amb recollida i tornada a domicili a tot Andorra."
@@ -130,5 +131,96 @@
     "contactForm": "Formulari de Contacte",
     "copyright": "© {year} Top Gos. Tots els drets reservats.",
     "built": "Fet amb amor per als gossos d'Andorra"
+  },
+  "servicePages": {
+    "highlightsTitle": "Què Inclou",
+    "faqTitle": "Preguntes Freqüents",
+    "dogWalking": {
+      "meta": {
+        "title": "Passeig de Gossos a Andorra | Recollida a Domicili | Top Gos",
+        "description": "Passeig de gossos professional a totes les parròquies d'Andorra, amb recollida i tornada a domicili. Passejos individuals o en petit grup. Reserveu avui."
+      },
+      "hero": {
+        "label": "Passeig de Gossos",
+        "title": "Passeig de gossos a Andorra, amb recollida a domicili inclosa",
+        "subtitle": "Passejos individuals o en petit grup adaptats al ritme i l'energia del vostre gos, amb recollida i tornada a la porta de casa, a tot Andorra."
+      },
+      "intro": {
+        "p1": "Tots els gossos necessiten moure's, ensumar i explorar, però no tots els propietaris tenen temps de fer-ho cada dia. A Top Gos ens n'ocupem: un dels nostres passejadors locals recull el vostre gos a casa, li fa un passeig adaptat a la seva raça, edat i nivell d'energia, i el torna content i cansat, sempre puntual.",
+        "p2": "Mantenim els grups reduïts (o fem passejos individuals, si el vostre gos ho prefereix així) perquè cada gos rebi atenció real, no només una volta ràpida al carrer. Tant si necessiteu una rutina diària com un passeig puntual quan l'agenda es complica, ho adaptem a vosaltres."
+      },
+      "highlights": [
+        "Recollida i tornada a domicili a totes les parròquies d'Andorra",
+        "Passejos individuals o en petit grup, vosaltres trieu",
+        "Durada i ritme del passeig adaptats a l'edat i energia del vostre gos",
+        "Horaris flexibles: diaris, setmanals o puntuals",
+        "Actualitzacions amb fotos perquè sapigueu com ha anat el passeig"
+      ],
+      "faq": {
+        "q1": "Quant duren els passejos?",
+        "a1": "La majoria de passejos duren entre 30 i 60 minuts, segons les necessitats del vostre gos; acordem la durada adequada en el moment de la reserva.",
+        "q2": "Passegeu els gossos en grup o d'un en un?",
+        "a2": "Les dues opcions. Alguns gossos van millor amb passejos individuals, d'altres gaudeixen de la companyia d'un grup reduït i ben escollit. Us recomanarem el que millor s'adapti al vostre gos."
+      },
+      "cta": "Reservar un Passeig"
+    },
+    "grooming": {
+      "meta": {
+        "title": "Perruqueria Canina a Andorra | Bany, Tall i Paquets Spa | Top Gos",
+        "description": "Perruqueria canina professional a Andorra: bany, tall i estètica, més paquets spa i serveis à la carte com raspallat de dents o tractament anticaiguda. Reserveu."
+      },
+      "hero": {
+        "label": "Perruqueria Canina",
+        "title": "Perruqueria canina professional a Andorra",
+        "subtitle": "Bany, tall i estètica perquè el vostre gos estigui net, sa i còmode, des d'un retoc ràpid fins a un dia complet de spa."
+      },
+      "intro": {
+        "p1": "Una bona sessió de perruqueria és molt més que estètica: el bany, el raspallat i la cura de les ungles regulars mantenen el vostre gos còmode i ajuden a detectar aviat problemes de pell, pelatge o orelles. Els nostres professionals treballen amb calma i paciència, especialment amb gossos nerviosos o que hi van per primera vegada.",
+        "p2": "Trieu un dels nostres paquets, des de L'Elegància Essencial fins al Retir Reial, o creeu la vostra pròpia visita amb extres à la carte com el facial de nabius, el tractament anticaiguda o el raspallat de dents. Cada sessió s'adapta al tipus de pelatge i a les necessitats del vostre gos."
+      },
+      "highlights": [
+        "Bany suau amb xampú apte per a gossos",
+        "Tall i estètica adaptats a la raça",
+        "Tall d'ungles, neteja d'orelles i cura de potes inclosos",
+        "Paquets spa i serveis à la carte",
+        "Tracte calmat i pacient amb gossos nerviosos o grans"
+      ],
+      "faq": {
+        "q1": "Cada quant temps s'hauria de rentar i tallar el meu gos?",
+        "a1": "La majoria de gossos van bé amb una sessió completa cada 4-6 setmanes, tot i que el tipus de pelatge i l'estil de vida ho poden canviar; pregunteu-nos i us proposarem un calendari.",
+        "q2": "Feu perruqueria a cadells o a gossos nerviosos?",
+        "a2": "Sí, anem al ritme del vostre gos, amb paciència extra per a cadells, gossos grans o ansiosos, i podem començar amb una sessió introductòria curta si ajuda."
+      },
+      "cta": "Reservar Perruqueria"
+    },
+    "sitting": {
+      "meta": {
+        "title": "Cangur de Gossos a Domicili a Andorra | Top Gos",
+        "description": "Cangur de gossos a domicili a tot Andorra: el vostre gos es queda al seu entorn mentre esteu fora, amb actualitzacions diàries i fotos. Reserveu avui."
+      },
+      "hero": {
+        "label": "Cangur a Domicili",
+        "title": "Cangur de gossos a domicili, aquí a Andorra",
+        "subtitle": "El vostre gos es queda exactament on se sent més segur: a casa, mentre un cangur local de confiança s'ocupa de tota la resta."
+      },
+      "intro": {
+        "p1": "La residència canina no és la millor opció per a tots els gossos. El cangur a domicili vol dir que el vostre gos manté el seu propi llit, la seva rutina i el seu jardí, mentre nosaltres ens ocupem de l'alimentació, els passejos, la medicació si cal, i fer-li companyia, tot a casa vostra.",
+        "p2": "És ideal per a viatges curts, vacances més llargues o plans d'última hora, i especialment tranquil·litzador per a gossos grans, ansiosos o llars amb diverses mascotes que és més fàcil mantenir juntes que separar en residències diferents."
+      },
+      "highlights": [
+        "El vostre gos es queda a casa seva, amb la seva rutina",
+        "Alimentació, passejos i medicació segons calgui",
+        "Actualitzacions diàries amb fotos i missatges",
+        "Ideal per a gossos ansiosos, grans o llars amb diversos gossos",
+        "Disponible per a viatges curts o vacances llargues"
+      ],
+      "faq": {
+        "q1": "Com accediu a casa meva mentre estic fora?",
+        "a1": "Acordarem junts el lliurament segur de les claus o l'accés abans que marxeu, i ho confirmarem tot durant la consulta prèvia a la reserva.",
+        "q2": "Podeu donar medicació al meu gos si ho necessita?",
+        "a2": "Sí, els nostres cangurs poden administrar medicació seguint les vostres indicacions; només cal que ens en doneu els detalls en el moment de reservar."
+      },
+      "cta": "Reservar Cangur a Domicili"
+    }
   }
 }

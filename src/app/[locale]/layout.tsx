@@ -3,13 +3,13 @@ import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
+import JsonLd from "@/components/JsonLd";
+import { localizedUrl } from "@/lib/seo";
 
 type Props = {
   children: React.ReactNode;
   params: Promise<{ locale: string }>;
 };
-
-const base = "https://www.topgos.ad";
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
@@ -20,19 +20,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: t("description"),
     keywords: t("keywords"),
     alternates: {
-      canonical: `${base}/${locale}`,
+      canonical: localizedUrl(locale),
       languages: {
-        ca: `${base}/ca`,
-        es: `${base}/es`,
-        fr: `${base}/fr`,
-        en: `${base}/en`,
-        "x-default": `${base}/ca`,
+        ca: localizedUrl("ca"),
+        es: localizedUrl("es"),
+        fr: localizedUrl("fr"),
+        en: localizedUrl("en"),
+        "x-default": localizedUrl("ca"),
       },
     },
     openGraph: {
       title: t("title"),
       description: t("description"),
-      url: `${base}/${locale}`,
+      url: localizedUrl(locale),
       siteName: "Top Gos",
       locale,
       type: "website",
@@ -51,6 +51,7 @@ export default async function LocaleLayout({ children, params }: Props) {
 
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
+      <JsonLd />
       {children}
     </NextIntlClientProvider>
   );

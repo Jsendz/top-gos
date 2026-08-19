@@ -30,6 +30,7 @@
     "label": "Nuestros Servicios",
     "title": "Servicios de cuidado canino a medida en Andorra",
     "body": "Cada perro es único. Por eso ofrecemos paseo, peluquería y cuidado a domicilio adaptados a las necesidades de tu mascota y a tu agenda, en toda Andorra.",
+    "learnMore": "Más información",
     "dogWalking": {
       "title": "Paseo de Perros",
       "description": "Paseos individuales o en grupo según la energía de tu perro, con recogida y vuelta a domicilio en toda Andorra."
@@ -130,5 +131,96 @@
     "contactForm": "Formulario de Contacto",
     "copyright": "© {year} Top Gos. Todos los derechos reservados.",
     "built": "Hecho con amor para los perros de Andorra"
+  },
+  "servicePages": {
+    "highlightsTitle": "Qué Incluye",
+    "faqTitle": "Preguntas Frecuentes",
+    "dogWalking": {
+      "meta": {
+        "title": "Paseador de Perros en Andorra | Recogida a Domicilio | Top Gos",
+        "description": "Paseo de perros profesional en todas las parroquias de Andorra, con recogida y vuelta a domicilio. Paseos individuales o en grupo reducido. Reserva hoy."
+      },
+      "hero": {
+        "label": "Paseo de Perros",
+        "title": "Paseo de perros en Andorra, con recogida a domicilio incluida",
+        "subtitle": "Paseos individuales o en grupo reducido adaptados al ritmo y la energía de tu perro, con recogida y vuelta a la puerta de tu casa, en toda Andorra."
+      },
+      "intro": {
+        "p1": "Todos los perros necesitan moverse, olfatear y explorar, pero no todos los propietarios tienen tiempo de hacerlo cada día. En Top Gos nos encargamos de ello: uno de nuestros paseadores locales recoge a tu perro en casa, le da un paseo adaptado a su raza, edad y nivel de energía, y lo devuelve contento y cansado, siempre puntual.",
+        "p2": "Mantenemos los grupos reducidos (o hacemos paseos individuales, si tu perro lo prefiere así) para que cada perro reciba atención real, no solo una vuelta rápida a la manzana. Tanto si necesitas una rutina diaria como un paseo puntual cuando la agenda aprieta, lo adaptamos a ti."
+      },
+      "highlights": [
+        "Recogida y vuelta a domicilio en todas las parroquias de Andorra",
+        "Paseos individuales o en grupo reducido, tú eliges",
+        "Duración y ritmo del paseo adaptados a la edad y energía de tu perro",
+        "Horarios flexibles: diarios, semanales o puntuales",
+        "Actualizaciones con fotos para que sepas cómo ha ido el paseo"
+      ],
+      "faq": {
+        "q1": "¿Cuánto duran los paseos?",
+        "a1": "La mayoría de paseos duran entre 30 y 60 minutos, según las necesidades de tu perro; acordamos la duración adecuada al reservar.",
+        "q2": "¿Paseáis a los perros en grupo o de uno en uno?",
+        "a2": "Ambas opciones. Algunos perros van mejor con paseos individuales, otros disfrutan de la compañía de un grupo reducido y bien elegido. Te recomendaremos lo que mejor se adapte a tu perro."
+      },
+      "cta": "Reservar un Paseo"
+    },
+    "grooming": {
+      "meta": {
+        "title": "Peluquería Canina en Andorra | Baño, Corte y Packs Spa | Top Gos",
+        "description": "Peluquería canina profesional en Andorra: baño, corte y estética, más packs spa y extras à la carte como cepillado dental o tratamiento antimuda. Reserva."
+      },
+      "hero": {
+        "label": "Peluquería Canina",
+        "title": "Peluquería canina profesional en Andorra",
+        "subtitle": "Baño, corte y estética para que tu perro esté limpio, sano y cómodo, desde un retoque rápido hasta un día completo de spa."
+      },
+      "intro": {
+        "p1": "Una buena sesión de peluquería es mucho más que estética: el baño, el cepillado y el cuidado de las uñas regulares mantienen a tu perro cómodo y ayudan a detectar a tiempo problemas de piel, pelaje u oídos. Nuestros profesionales trabajan con calma y paciencia, especialmente con perros nerviosos o que acuden por primera vez.",
+        "p2": "Elige uno de nuestros packs, desde La Elegancia Esencial hasta El Retiro Real, o crea tu propia visita con extras à la carte como el facial de arándanos, el tratamiento antimuda o el cepillado dental. Cada sesión se adapta al tipo de pelaje y a las necesidades de tu perro."
+      },
+      "highlights": [
+        "Baño suave con champú apto para perros",
+        "Corte y estética adaptados a la raza",
+        "Corte de uñas, limpieza de oídos y cuidado de patas incluidos",
+        "Packs spa y extras à la carte",
+        "Trato calmado y paciente con perros nerviosos o mayores"
+      ],
+      "faq": {
+        "q1": "¿Cada cuánto debería bañar y cortar a mi perro?",
+        "a1": "La mayoría de perros van bien con una sesión completa cada 4-6 semanas, aunque el tipo de pelaje y el estilo de vida pueden cambiarlo; pregúntanos y te proponemos un calendario.",
+        "q2": "¿Hacéis peluquería a cachorros o perros nerviosos?",
+        "a2": "Sí, vamos al ritmo de tu perro, con paciencia extra para cachorros, perros mayores o ansiosos, y podemos empezar con una sesión introductoria corta si ayuda."
+      },
+      "cta": "Reservar Peluquería"
+    },
+    "sitting": {
+      "meta": {
+        "title": "Canguro de Perros a Domicilio en Andorra | Top Gos",
+        "description": "Canguro de perros a domicilio en toda Andorra: tu perro se queda en su entorno mientras estás fuera, con actualizaciones diarias y fotos. Reserva hoy."
+      },
+      "hero": {
+        "label": "Canguro a Domicilio",
+        "title": "Canguro de perros a domicilio, aquí en Andorra",
+        "subtitle": "Tu perro se queda exactamente donde se siente más seguro: en casa, mientras un canguro local de confianza se ocupa de todo lo demás."
+      },
+      "intro": {
+        "p1": "La residencia canina no es la mejor opción para todos los perros. El canguro a domicilio significa que tu perro mantiene su propia cama, su rutina y su jardín, mientras nosotros nos encargamos de la alimentación, los paseos, la medicación si hace falta, y hacerle compañía, todo en tu casa.",
+        "p2": "Es ideal para viajes cortos, vacaciones más largas o planes de última hora, y especialmente tranquilizador para perros mayores, ansiosos u hogares con varias mascotas que es más fácil mantener juntas que separar en distintas residencias."
+      },
+      "highlights": [
+        "Tu perro se queda en su propia casa, con su rutina",
+        "Alimentación, paseos y medicación según haga falta",
+        "Actualizaciones diarias con fotos y mensajes",
+        "Ideal para perros ansiosos, mayores u hogares con varios perros",
+        "Disponible para viajes cortos o vacaciones largas"
+      ],
+      "faq": {
+        "q1": "¿Cómo accedéis a mi casa mientras estoy fuera?",
+        "a1": "Acordaremos juntos la entrega segura de llaves o el acceso antes de que te vayas, y lo confirmaremos todo durante la consulta previa a la reserva.",
+        "q2": "¿Podéis dar medicación a mi perro si lo necesita?",
+        "a2": "Sí, nuestros canguros pueden administrar medicación siguiendo tus indicaciones; solo tienes que darnos los detalles al reservar."
+      },
+      "cta": "Reservar Canguro a Domicilio"
+    }
   }
 }

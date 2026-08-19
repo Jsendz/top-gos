@@ -28,7 +28,7 @@ export default async function AreasWeServe() {
           <h2 className="text-4xl font-extrabold text-[#2e4a5c] leading-tight mb-6">{title}</h2>
           <p className="text-[#4a6a7c] leading-relaxed mb-8">{body}</p>
           <a
-            href="#contact"
+            href="#book"
             className="inline-block bg-[#f6c882] hover:bg-[#e8ad65] text-[#2e4a5c] font-semibold px-7 py-3.5 rounded-full transition-colors duration-200"
           >
             {cta}

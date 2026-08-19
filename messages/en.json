@@ -30,6 +30,7 @@
     "label": "Our Services",
     "title": "Tailored dog care services in Andorra",
     "body": "Every dog is different. That's why we offer walking, grooming and in-home care shaped around your pet's needs and your schedule, anywhere in Andorra.",
+    "learnMore": "Learn more",
     "dogWalking": {
       "title": "Dog Walking",
       "description": "Solo or small-group walks matched to your dog's energy, with pick-up and drop-off at your home anywhere in Andorra."
@@ -130,5 +131,96 @@
     "contactForm": "Contact Form",
     "copyright": "© {year} Top Gos. All rights reserved.",
     "built": "Made with love for the dogs of Andorra"
+  },
+  "servicePages": {
+    "highlightsTitle": "What's Included",
+    "faqTitle": "Frequently Asked Questions",
+    "dogWalking": {
+      "meta": {
+        "title": "Dog Walking in Andorra | Home Pick-Up & Drop-Off | Top Gos",
+        "description": "Professional dog walking across every parish of Andorra, with home pick-up and drop-off. Solo or small-group walks matched to your dog's energy. Book today."
+      },
+      "hero": {
+        "label": "Dog Walking",
+        "title": "Dog walking in Andorra, with home pick-up included",
+        "subtitle": "Solo or small-group walks matched to your dog's pace and energy, with pick-up and drop-off at your door — anywhere in Andorra."
+      },
+      "intro": {
+        "p1": "Every dog needs to move, sniff and explore — but not every owner has the time to make that happen every day. Top Gos takes care of it for you: one of our local walkers picks your dog up from home, gives them a walk suited to their breed, age and energy level, and brings them back happy and tired, right on schedule.",
+        "p2": "We keep groups small (or go solo, if your dog prefers it that way) so every dog gets real attention, not just a lap around the block. Whether you need a daily routine or the occasional walk when your schedule gets tight, we build it around you."
+      },
+      "highlights": [
+        "Home pick-up and drop-off in every parish of Andorra",
+        "Solo or small-group walks — you choose",
+        "Walk length and pace matched to your dog's age and energy",
+        "Flexible scheduling: daily, weekly or one-off bookings",
+        "Photo updates so you know how the walk went"
+      ],
+      "faq": {
+        "q1": "How long are the walks?",
+        "a1": "Most walks run 30–60 minutes, depending on your dog's needs — we'll agree on the right length when you book.",
+        "q2": "Do you walk dogs in small groups or one at a time?",
+        "a2": "Both. Some dogs do best on solo walks, others enjoy the company of a small, well-matched group. We'll recommend what suits your dog."
+      },
+      "cta": "Book a Dog Walk"
+    },
+    "grooming": {
+      "meta": {
+        "title": "Dog Grooming in Andorra | Bathing, Trimming & Spa Packages | Top Gos",
+        "description": "Professional dog grooming in Andorra: bathing, trimming and styling, plus spa packages and à la carte add-ons like teeth brushing and de-shedding. Book today."
+      },
+      "hero": {
+        "label": "Pet Grooming",
+        "title": "Professional dog grooming in Andorra",
+        "subtitle": "Bathing, trimming and styling to keep your dog clean, healthy and comfortable — from a quick tidy-up to a full spa day."
+      },
+      "intro": {
+        "p1": "A good groom is about more than looks — regular bathing, brushing and nail care keep your dog comfortable and help catch skin, coat or ear issues early. Our groomers work calmly and patiently, especially with nervous or first-time dogs, so grooming day stays a good experience.",
+        "p2": "Choose one of our packages, from The Essential Elegance to The Royal Retreat, or build your own visit with à la carte extras like a blueberry facial, de-shedding treatment or teeth brushing. Every session is tailored to your dog's coat type and needs."
+      },
+      "highlights": [
+        "Gentle bathing with pet-safe shampoo",
+        "Breed-appropriate trimming and styling",
+        "Nail trimming, ear cleaning and paw care included",
+        "Spa packages plus à la carte add-ons",
+        "Calm, patient handling for nervous or senior dogs"
+      ],
+      "faq": {
+        "q1": "How often should my dog be groomed?",
+        "a1": "Most dogs do well with a full groom every 4–6 weeks, though coat type and lifestyle can change that — ask us and we'll suggest a schedule for your dog.",
+        "q2": "Do you groom puppies or nervous dogs?",
+        "a2": "Yes — we go at your dog's pace, with extra patience for puppies, seniors and anxious dogs, and can start with a short introductory session if that helps."
+      },
+      "cta": "Book a Grooming Session"
+    },
+    "sitting": {
+      "meta": {
+        "title": "In-Home Dog Sitting in Andorra | Top Gos",
+        "description": "In-home dog sitting across Andorra — your dog stays in familiar surroundings while you're away, with daily updates and photos. Trusted, local care. Book today."
+      },
+      "hero": {
+        "label": "In-Home Dog Sitting",
+        "title": "In-home dog sitting, right in Andorra",
+        "subtitle": "Your dog stays exactly where they feel safest — at home — while a trusted local sitter takes care of everything else."
+      },
+      "intro": {
+        "p1": "Boarding isn't right for every dog. In-home sitting means your dog keeps their own bed, their own routine and their own garden, while we take care of feeding, walks, medication if needed, and company — all in your home.",
+        "p2": "It's ideal for short trips, longer holidays, or last-minute plans, and especially reassuring for older dogs, anxious dogs, or multi-pet households that are easier to keep together than to split up between different boarders."
+      },
+      "highlights": [
+        "Your dog stays in their own home and routine",
+        "Feeding, walks and medication handled as needed",
+        "Daily photo and message updates while you're away",
+        "Great for anxious, senior or multi-dog households",
+        "Available for short trips or extended holidays"
+      ],
+      "faq": {
+        "q1": "How do you access my home while I'm away?",
+        "a1": "We'll agree on secure key handover or access details together before you leave, and confirm everything in your pre-booking consultation.",
+        "q2": "Can you give medication if my dog needs it?",
+        "a2": "Yes, our sitters can administer medication as instructed — just let us know the details when you book."
+      },
+      "cta": "Book In-Home Sitting"
+    }
   }
 }

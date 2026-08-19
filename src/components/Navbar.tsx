@@ -16,11 +16,14 @@ export default function Navbar() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
+  // Hrefs are homepage-relative anchors so they still work when the
+  // navbar is rendered on a subpage (e.g. /dog-walking) — Link handles
+  // the locale prefix, the browser handles the hash scroll.
   const navLinks = [
-    { key: "home", href: "#home" },
-    { key: "services", href: "#services" },
-    { key: "about", href: "#about" },
-    { key: "contact", href: "#contact" },
+    { key: "home", href: "/#home" },
+    { key: "services", href: "/#services" },
+    { key: "about", href: "/#about" },
+    { key: "contact", href: "/#book" },
   ] as const;
 
   return (
@@ -44,7 +47,7 @@ export default function Navbar() {
         {/* Nav links */}
         <nav className="hidden md:flex items-center gap-8">
           {navLinks.map(({ key, href }) => (
-            <a
+            <Link
               key={key}
               href={href}
               className={`text-sm font-medium transition-colors duration-300 hover:text-[#f6c882] ${
@@ -52,19 +55,19 @@ export default function Navbar() {
               }`}
             >
               {t(key)}
-            </a>
+            </Link>
           ))}
         </nav>
 
         {/* Right side: language switcher + CTA */}
         <div className="flex items-center gap-3">
           <LanguageSwitcher scrolled={scrolled} />
-          <a
-            href="#contact"
+          <Link
+            href="/#book"
             className="bg-[#f6c882] hover:bg-[#e8ad65] text-[#2e4a5c] font-semibold text-sm px-5 py-2.5 rounded-full transition-colors duration-200"
           >
             {t("bookNow")}
-          </a>
+          </Link>
         </div>
       </div>
     </header>

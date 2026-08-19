@@ -5,12 +5,17 @@ import { homepageQuery, servicesQuery } from "@/sanity/queries";
 import { loc, type HomepageData, type ServiceData } from "@/sanity/types";
 import Reveal from "@/components/ui/Reveal";
 import StaggerReveal, { StaggerItem } from "@/components/ui/StaggerReveal";
+import { Link } from "@/i18n/navigation";
 
 const fallbackImages = [
   "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=600&q=80",
   "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80",
   "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=600&q=80",
 ];
+
+// Index-matched to the three services above (and to the fallback order
+// below): Dog Walking, Pet Grooming, In-Home Dog Sitting.
+const servicePageSlugs = ["dog-walking", "pet-grooming", "dog-sitting"];
 
 export default async function Services() {
   const [locale, t, cms, services] = await Promise.all([
@@ -51,7 +56,7 @@ export default async function Services() {
 
         {/* Cards — staggered */}
         <StaggerReveal className="grid grid-cols-1 md:grid-cols-3 gap-6" delay={0.1}>
-          {serviceList.map((sv) => (
+          {serviceList.map((sv, i) => (
             <StaggerItem key={sv.title}>
               <div className="bg-white rounded-2xl overflow-hidden shadow-lg h-full hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                 <div className="relative h-52 w-full">
@@ -65,7 +70,15 @@ export default async function Services() {
                 </div>
                 <div className="p-6">
                   <h3 className="text-lg font-bold text-[#2e4a5c] mb-2">{sv.title}</h3>
-                  <p className="text-[#4a6a7c] text-sm leading-relaxed">{sv.description}</p>
+                  <p className="text-[#4a6a7c] text-sm leading-relaxed mb-3">{sv.description}</p>
+                  {servicePageSlugs[i] && (
+                    <Link
+                      href={`/${servicePageSlugs[i]}`}
+                      className="text-sm font-semibold text-[#e8ad65] hover:text-[#2e4a5c] transition-colors"
+                    >
+                      {t("learnMore")} →
+                    </Link>
+                  )}
                 </div>
               </div>
             </StaggerItem>

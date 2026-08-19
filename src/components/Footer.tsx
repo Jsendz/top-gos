@@ -3,6 +3,7 @@ import { getTranslations, getLocale } from "next-intl/server";
 import { sanityFetch } from "@/sanity/client";
 import { homepageQuery } from "@/sanity/queries";
 import { loc, type HomepageData } from "@/sanity/types";
+import { Link } from "@/i18n/navigation";
 
 export default async function Footer() {
   const [locale, t, nav, cms] = await Promise.all([
@@ -13,17 +14,19 @@ export default async function Footer() {
   ]);
 
   const settings = cms?.siteSettings;
-  const email    = settings?.email    || "hello@topgos.com";
-  const phone    = settings?.phone    || "(555) 555-5555";
+  const email    = settings?.email    || "topgos@gmail.com";
+  const phone    = settings?.phone    || "+376 300 000";
   const tagline  = settings?.footerTagline
     ? loc(settings.footerTagline, locale)
     : t("tagline");
 
+  // Homepage-relative anchors so these still resolve correctly from
+  // subpages like /dog-walking, not just from the homepage itself.
   const quickLinks = [
-    { key: "home",     href: "#home" },
-    { key: "services", href: "#services" },
-    { key: "about",    href: "#about" },
-    { key: "contact",  href: "#contact" },
+    { key: "home",     href: "/#home" },
+    { key: "services", href: "/#services" },
+    { key: "about",    href: "/#about" },
+    { key: "contact",  href: "/#book" },
   ] as const;
 
   return (
@@ -41,12 +44,12 @@ export default async function Footer() {
               />
             </div>
             <p className="text-white/60 text-sm leading-relaxed mb-6 max-w-xs">{tagline}</p>
-            <a
-              href="#contact"
+            <Link
+              href="/#book"
               className="inline-block bg-[#f6c882] hover:bg-[#e8ad65] text-[#2e4a5c] font-semibold text-sm px-5 py-2.5 rounded-full transition-colors duration-200"
             >
               {t("bookNow")}
-            </a>
+            </Link>
           </div>
 
           <div>
@@ -56,12 +59,12 @@ export default async function Footer() {
             <ul className="space-y-3">
               {quickLinks.map(({ key, href }) => (
                 <li key={key}>
-                  <a
+                  <Link
                     href={href}
                     className="text-white/60 hover:text-[#f6c882] text-sm transition-colors duration-200"
                   >
                     {nav(key)}
-                  </a>
+                  </Link>
                 </li>
               ))}
             </ul>
@@ -74,9 +77,9 @@ export default async function Footer() {
             <ul className="space-y-3 text-sm text-white/60">
               <li className="flex items-center gap-2">
                 <span>📝</span>
-                <a href="#contact" className="hover:text-[#f6c882] transition-colors">
+                <Link href="/#book" className="hover:text-[#f6c882] transition-colors">
                   {t("contactForm")}
-                </a>
+                </Link>
               </li>
               <li className="flex items-center gap-2">
                 <span>✉️</span>

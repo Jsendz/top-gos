@@ -46,7 +46,7 @@ export default async function About() {
           </StaggerReveal>
 
           <a
-            href="#contact"
+            href="#book"
             className="inline-block mt-2 bg-[#f6c882] hover:bg-[#e8ad65] text-[#2e4a5c] font-semibold px-7 py-3.5 rounded-full transition-colors duration-200"
           >
             {cta}
@@ -58,7 +58,7 @@ export default async function About() {
           <div className="relative w-full max-w-sm aspect-[4/5] rounded-2xl overflow-hidden shadow-xl">
             <Image
               src={sideImage || "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"}
-              alt="About us dog"
+              alt="Top Gos caring for a dog in Andorra"
               fill
               sizes="(max-width: 768px) 100vw, 384px"
               className="object-cover"

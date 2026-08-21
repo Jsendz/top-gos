@@ -1,33 +1,41 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { Resend } from 'resend';
 
 export async function POST(req: NextRequest) {
-  const resend = new Resend(process.env.RESEND_API_KEY);
+  const formId = process.env.FORMSPREE_FORM_ID;
   const { name, email, phone, date, service, message } = await req.json();
 
   if (!name || !email) {
     return NextResponse.json({ error: 'Name and email are required.' }, { status: 400 });
   }
 
-  const { error } = await resend.emails.send({
-    from: 'Top Gos <onboarding@resend.dev>',
-    to: 'topgos@gmail.com',
-    replyTo: email,
-    subject: `New booking request from ${name}`,
-    text: [
-      `Name:    ${name}`,
-      `Email:   ${email}`,
-      `Phone:   ${phone    || '—'}`,
-      `Date:    ${date     || '—'}`,
-      `Service: ${service  || '—'}`,
-      '',
-      message || '(no message)',
-    ].join('\n'),
+  if (!formId) {
+    console.error('[contact] FORMSPREE_FORM_ID is not set.');
+    return NextResponse.json({ error: 'Contact form is not configured.' }, { status: 500 });
+  }
+
+  const endpoint = formId.startsWith('http') ? formId : `https://formspree.io/f/${formId}`;
+
+  const res = await fetch(endpoint, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Accept: 'application/json',
+    },
+    body: JSON.stringify({
+      name,
+      email,
+      phone: phone || '—',
+      date: date || '—',
+      service: service || '—',
+      message: message || '(no message)',
+      _subject: `New booking request from ${name}`,
+    }),
   });
 
-  if (error) {
-    console.error('[contact] Resend error:', error);
-    return NextResponse.json({ error: error.message }, { status: 500 });
+  if (!res.ok) {
+    const body = await res.json().catch(() => null);
+    console.error('[contact] Formspree error:', body);
+    return NextResponse.json({ error: 'Failed to send message.' }, { status: 500 });
   }
 
   return NextResponse.json({ ok: true });
